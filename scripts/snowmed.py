@@ -1,7 +1,7 @@
 import polars as pl
 from pathlib import Path
 
-file_path = Path('medical-codex-pipeline/input/sct2_Description_Full-en_US1000124_20250901.txt')
+file_path = Path('input\sct2_Description_Full-en_US1000124_20250901.txt')
 
 df =  pl.read_csv(
     file_path,
@@ -25,7 +25,7 @@ df =  pl.read_csv(
 
 import os 
 
-output_dir = Path('medical-codex-pipeline\output')
+output_dir = Path('output')
 output_dir.mkdir(exist_ok=True)
 output_path = output_dir / 'sct2_Description_Full.csv'
 
