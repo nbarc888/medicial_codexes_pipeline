@@ -3,6 +3,8 @@ from pathlib import Path
 
 file_path= Path('input\RXNATOMARCHIVE.RRF')
 
+# SEE REFERENCE: https://www.nlm.nih.gov/research/umls/rxnorm/docs/techdoc.html#s12_10
+
 columns = [
     'rxaui', 'aui', 'str', 'archive_timestamp', 'created_timestamp', 
     'updated_timestamp', 'code', 'is_brand', 'lat', 'last_released', 
