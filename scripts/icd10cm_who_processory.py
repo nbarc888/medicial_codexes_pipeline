@@ -3,7 +3,9 @@ import pandas as pd
 file_path = 'input\icd102019syst_codes.txt'
 
 columns = ['level', 'type', 'usage', 'sort', 'parent', 'code', 'display_code', 
-           'icd10_code']
+           'icd10_code', 'title_en', 'parent_title', 'detailed_title', 
+           'definition', 'mortality_code', 'morbidity_code1', 'morbidity_code2',
+           'morbidity_code3', 'morbidity_code4']
 
 df = pd.read_csv(file_path, sep=';', header=None, names=columns)
 
