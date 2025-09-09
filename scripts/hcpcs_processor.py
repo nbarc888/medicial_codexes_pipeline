@@ -3,9 +3,10 @@ import os
 
 file_path = "input/HCPC2025_OCT_ANWEB.txt"
 
-outname = "output/hscps.csv"
-output_directory = "output"
-file_name = "output/hscps_output.csv"
+outputStr = "output"
+outname = outputStr + "/hscps.csv"
+output_directory = outputStr
+file_name = outputStr + "/hscps_output.csv"
 
 #### load note use similar icd ruling for columns!!!! note look at note for column descip
 ### re tweak the text columns !!!!
