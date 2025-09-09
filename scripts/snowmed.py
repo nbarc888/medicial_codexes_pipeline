@@ -1,6 +1,7 @@
 import polars as pl
 from pathlib import Path
 import pandas as pd
+import os
 
 file_path = Path('input\sct2_Description_Full-en_US1000124_20250901.txt')
 
@@ -24,11 +25,15 @@ df =  pl.read_csv(
 }
 )
 
-import os 
+column = ['id', 'effectiveTime', 'active', 'moduleID', 'conceptId', 'languagecode', 'typeID', 'term', 'caseSignificanceId']
+
+header = ['typeID' , 'term', 'caseSignificanceId'
+]
+
 
 output_dir = Path('output')
 output_dir.mkdir(exist_ok=True)
-output_path = output_dir / 'sct2_Description_Full.csv'
+output_path = output_dir / 'SNOWMED_Full.csv'
 
 df.write_csv(output_path)
 
@@ -50,13 +55,3 @@ print(f"Language codes: {df['languageCode'].unique().to_list()}")
 ###]
 ###headers = ['name', 'department']
 ###save_to_csv(employees, 'employees.csv', headers)
-
-termid = ['term']
-headers = ['id', 'effectivetime']
-
-data = {'term'
-        'id'
-        'effectivetime'}
-df = pd.DataFrame(data)
-
-df.to_csv('snowmed.csv', index=False)
