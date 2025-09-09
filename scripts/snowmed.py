@@ -1,5 +1,6 @@
 import polars as pl
 from pathlib import Path
+import pandas as pd
 
 file_path = Path('input\sct2_Description_Full-en_US1000124_20250901.txt')
 
@@ -41,3 +42,21 @@ print(f"\nMemory usage (MB): {df.estimated_size() / 1024**2:.2f}")
 
 print(f"\nActive terms count: {df.filter(pl.col('active') == 1).height}")
 print(f"Language codes: {df['languageCode'].unique().to_list()}")
+
+### employees = [
+ ###    {'name': 'Alice', 'department': 'HR'},
+  ###  {'name': 'Bob', 'department': 'Engineering'},
+  ###  {'name': 'Charlie', 'department': 'HR'}
+###]
+###headers = ['name', 'department']
+###save_to_csv(employees, 'employees.csv', headers)
+
+termid = ['term']
+headers = ['id', 'effectivetime']
+
+data = {'term'
+        'id'
+        'effectivetime'}
+df = pd.DataFrame(data)
+
+df.to_csv('snowmed.csv', index=False)

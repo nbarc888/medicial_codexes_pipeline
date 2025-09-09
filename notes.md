@@ -17,3 +17,14 @@ Run Test Script:
 ```
 python scripts\test.py
 ```
+
+
+
+### example imports # Example usage:
+### employees = [
+ ###    {'name': 'Alice', 'department': 'HR'},
+  ###  {'name': 'Bob', 'department': 'Engineering'},
+  ###  {'name': 'Charlie', 'department': 'HR'}
+###]
+###headers = ['name', 'department']
+###save_to_csv(employees, 'employees.csv', headers)

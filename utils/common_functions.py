@@ -1,7 +1,12 @@
-import utils.common_functions
+### import utils.common_functions
+### a = 10
+### b = 5
+### c = utils.common_functions.substract(a, b)
+### print(c)
 
-a = 10
-b = 5
+### save_to_formats(df, base_filename)
 
-c = utils.common_functions.substract(a, b)
-print(c)
+
+import pandas as pd 
+from pathlib import pathlib
+save_to_csv(module1, 'module1.csv', headers  )
