@@ -22,10 +22,7 @@ print(f"\nDataset shape: {df_polars.shape}")
 print(f"\nFirst 5 rows:")
 print(df_polars.head())
 
-print(f"\nMemory usage (MB): {df.estimated_size() / 1024**2:.2f}")
-
-
-df_polars_small = df_polars.select([
+df_polars_small = df_polars.select ([
     'NPI', 
     'Provider Last Name (Legal Name)'
 ])
@@ -42,6 +39,8 @@ df_polars_small = df_polars_small.rename({
     'last_updated': 'last_updated'
 })
 
-output_path = 'Module1_MedicalCodexes/npi/output/npi_small.csv'
+
+#### please fix output pathing 
+output_path = 'output'
 df_polars_small.write_csv(output_path)
-df_polars_small.write_parquet('Module1_MedicalCodexes/npi/output/npi_small.parquet')
+df_polars_small.write_parquet('output/npi_small.parquet')
