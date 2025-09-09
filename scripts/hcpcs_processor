@@ -3,22 +3,13 @@ import os
 
 file_path = "input/HCPC2025_OCT_ANWEB.txt"
 
-outputStr = "output"
-outname = outputStr + "/hscps.csv"
-output_directory = outputStr
-file_name = outputStr + "/hscps_output.csv"
-
-columns = [
-           'level', 'type', 'usage', 'sort', 'parent', 'code', 'display_code', 
-          'icd10_code', 'title_en', 'parent_title', 'detailed_title', 
-           'definition', 'mortality_code', 'morbidity_code1', 'morbidity_code2',
-           'morbidity_code3', 'morbidity_code4' ]
-
-header = [
-'icd10_code', 'detailed_title', 'definition'
+colspecs = [(0, 11), (11, 90), (90, 120)]
+column_names = [
+    "Code", "Description1", "Description2"
 ]
+df = pd.read_fwf(file_path, colspecs=colspecs, names=column_names)
 
-df = pd.read_csv(file_path, sep=';', header=None, names=columns)
 
-output_path = ('output/icd102019syst_codes.csv')
-df.to_csv(output_path, columns = header, index=False)
+## save as csv to Module1_MedicalCodexes/hcpcs/output
+output_path = "output/hscps_output.csv"
+df.to_csv(output_path, index=False)
