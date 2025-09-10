@@ -3,18 +3,11 @@ import polars as pl
 
 file_path = 'input/npidata_pfile_20050523-20250907.csv'
 
-npi = pd.read_csv('input/npidata_pfile_20050523-20250907.csv')
+npi = pd.read_csv('input/npidata_pfile_20050523-20250907.csv', low_memory=False)
 
 npi.iloc[0]
 
 npi.info()
-
-npi.STATUS.value_counts
-npi.CLASSTYPE.value_counts
-
-npi.npi_NUM
-npi.LONG_COMMON_NAME
-
 
 list_cols = ['NPI', 'Provider Organization Name (Legal Business Name)', 'VProvider Last Name (Legal Name)']
 print('list_cols')
@@ -36,5 +29,4 @@ npi_small = npi_small.rename(columns={
 })
 
 file_output_path = 'NPI_small.csv'
-
 npi_small.to_csv('output/NPI_small.csv')
