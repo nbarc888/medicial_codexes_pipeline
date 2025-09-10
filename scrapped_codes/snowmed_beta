@@ -1,3 +1,5 @@
+### Code is functional, code kept as beta for SNOWMED.csv Generation. Primary difference is removal of printed information in terminal. 
+
 import polars as pl
 from pathlib import Path
 
