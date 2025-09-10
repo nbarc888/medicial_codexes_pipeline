@@ -1,0 +1,10 @@
+import pandas as pd
+
+df = pd.read_csv('input/npidata_pfile_20050523-20250907.csv', nrows=1)  # Read just the header
+print(df.columns.tolist())
+
+### pip install pandas
+
+
+output_path = ('output/npi_small.csv')
+pd.read_csv('input/npidata_pfile_20050523-20250907.csv', nrows=10000)[['NPI', 'Provider Last Name (Legal Name)']].dropna().to_csv('npi_small.csv', index=False)
