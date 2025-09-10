@@ -42,5 +42,5 @@ df_polars_small = df_polars_small.rename({
 
 #### please fix output pathing 
 output_path = 'output'
-df_polars_small.write_csv(output_path)
+df_polars_small.write_csv('output')
 df_polars_small.write_parquet('output/npi_small.parquet')
