@@ -21,7 +21,7 @@ df =  pl.read_csv(
         'languageCode': pl.Utf8,
         'typeId': pl.Utf8,
         'term': pl.Utf8,
-        'caseSignificanceId': pl.Utf8
+        
 }
 )
 
