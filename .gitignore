@@ -4,7 +4,10 @@
 # Datasets
 input/*.*
 output/*.*
-test_output.csv 
+
+### file types
+.csv
+.txt 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
