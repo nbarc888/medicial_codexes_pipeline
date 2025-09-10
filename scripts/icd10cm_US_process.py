@@ -21,3 +21,5 @@ df = pd.read_fwf(file_path, colspecs=colspecs, seperate=",", names=column_names)
 
 output_path = ('output/icd102019_us_beta.csv')
 df.to_csv(output_path, index=False)
+
+# CONFIRMED FUNCTIONAL
