@@ -1,3 +1,5 @@
+### CODE HAS BEEN SCRAPPED, KEEP IN FILE FOR LATER USE AND TROUBLE SHOOTING 
+
 import pandas as pd 
 import re
 
