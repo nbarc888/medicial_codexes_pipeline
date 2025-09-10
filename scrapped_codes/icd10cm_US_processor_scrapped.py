@@ -9,9 +9,9 @@ with open(file_path, 'r', ecoding='utf-8') as file:
  for line in file:
     
     line = line.rstrip('\n\r')
-#### use note++ to look at data stuff :3 consider using claude 
+
 if len(line) < 15:
-    continue
+continue
 
 order_num = kine[0:5].strip()
 code = line[6:13].strip()

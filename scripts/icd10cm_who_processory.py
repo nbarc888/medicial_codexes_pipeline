@@ -19,7 +19,7 @@ header = [
 
 df = pd.read_csv(file_path, sep=';', header=None, names=columns)
 
-output_path = ('output/icd102019syst_codes.csv')
+output_path = ('output/icd102019_who_syst_codes.csv')
 df.to_csv(output_path, columns = header, index=False)
 
 ### CONFIRMED FUNCTIONAL !!!!!
