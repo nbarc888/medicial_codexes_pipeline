@@ -26,7 +26,6 @@ df =  pl.read_csv(
 )
 
 column = ['id', 'effectiveTime', 'active', 'moduleID', 'conceptId', 'languagecode', 'typeID', 'term', 'caseSignificanceId']
-
 header = ['typeID' , 'term', 'caseSignificanceId' ]
 
 
