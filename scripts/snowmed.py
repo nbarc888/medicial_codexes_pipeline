@@ -7,7 +7,7 @@ file_path = Path('input\sct2_Description_Full-en_US1000124_20250901.txt')
 
 df =  pl.read_csv(
     file_path,
-    separator= '\t',
+    separator= ',',
     has_header=True,
     quote_char=None,
     encoding='utf8-lossy',
@@ -27,8 +27,7 @@ df =  pl.read_csv(
 
 column = ['id', 'effectiveTime', 'active', 'moduleID', 'conceptId', 'languagecode', 'typeID', 'term', 'caseSignificanceId']
 
-header = ['typeID' , 'term', 'caseSignificanceId'
-]
+header = ['typeID' , 'term', 'caseSignificanceId' ]
 
 
 output_dir = Path('output')
@@ -36,6 +35,8 @@ output_dir.mkdir(exist_ok=True)
 output_path = output_dir / 'SNOWMED_Full.csv'
 
 df.write_csv(output_path)
+### df.write_csv('snowmed.csv', columns=['typeID' , 'term', 'caseSignificanceId'], index=False)
+
 
 print(f"Successfully parsed {len(df)} records from SNOMED CT file")
 print(f"Saved to {output_path}")
