@@ -14,7 +14,7 @@ columns = [
            'morbidity_code3', 'morbidity_code4' ]
 
 header = [
-'icd10_code', 'detailed_title', 'definition'
+'icd10_code', 'parent_title', 'detailed_title', 'definition'
 ]
 
 df = pd.read_csv(file_path, sep=';', header=None, names=columns)

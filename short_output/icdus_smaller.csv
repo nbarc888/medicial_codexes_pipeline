@@ -1,0 +1,1001 @@
+0,1,2,3
+order_num,code,level,description
+1,A00,0,Cholera                                                      Cholera
+2,A000,1,"Cholera due to Vibrio cholerae 01, biovar cholerae           Cholera due to Vibrio cholerae 01, biovar cholerae"
+3,A001,1,"Cholera due to Vibrio cholerae 01, biovar eltor              Cholera due to Vibrio cholerae 01, biovar eltor"
+4,A009,1,"Cholera, unspecified                                         Cholera, unspecified"
+5,A01,0,Typhoid and paratyphoid fevers                               Typhoid and paratyphoid fevers
+6,A010,0,Typhoid fever                                                Typhoid fever
+7,A0100,1,"Typhoid fever, unspecified                                   Typhoid fever, unspecified"
+8,A0101,1,Typhoid meningitis                                           Typhoid meningitis
+9,A0102,1,Typhoid fever with heart involvement                         Typhoid fever with heart involvement
+10,A0103,1,Typhoid pneumonia                                            Typhoid pneumonia
+11,A0104,1,Typhoid arthritis                                            Typhoid arthritis
+12,A0105,1,Typhoid osteomyelitis                                        Typhoid osteomyelitis
+13,A0109,1,Typhoid fever with other complications                       Typhoid fever with other complications
+14,A011,1,Paratyphoid fever A                                          Paratyphoid fever A
+15,A012,1,Paratyphoid fever B                                          Paratyphoid fever B
+16,A013,1,Paratyphoid fever C                                          Paratyphoid fever C
+17,A014,1,"Paratyphoid fever, unspecified                               Paratyphoid fever, unspecified"
+18,A02,0,Other salmonella infections                                  Other salmonella infections
+19,A020,1,Salmonella enteritis                                         Salmonella enteritis
+20,A021,1,Salmonella sepsis                                            Salmonella sepsis
+21,A022,0,Localized salmonella infections                              Localized salmonella infections
+22,A0220,1,"Localized salmonella infection, unspecified                  Localized salmonella infection, unspecified"
+23,A0221,1,Salmonella meningitis                                        Salmonella meningitis
+24,A0222,1,Salmonella pneumonia                                         Salmonella pneumonia
+25,A0223,1,Salmonella arthritis                                         Salmonella arthritis
+26,A0224,1,Salmonella osteomyelitis                                     Salmonella osteomyelitis
+27,A0225,1,Salmonella pyelonephritis                                    Salmonella pyelonephritis
+28,A0229,1,Salmonella with other localized infection                    Salmonella with other localized infection
+29,A028,1,Other specified salmonella infections                        Other specified salmonella infections
+30,A029,1,"Salmonella infection, unspecified                            Salmonella infection, unspecified"
+31,A03,0,Shigellosis                                                  Shigellosis
+32,A030,1,Shigellosis due to Shigella dysenteriae                      Shigellosis due to Shigella dysenteriae
+33,A031,1,Shigellosis due to Shigella flexneri                         Shigellosis due to Shigella flexneri
+34,A032,1,Shigellosis due to Shigella boydii                           Shigellosis due to Shigella boydii
+35,A033,1,Shigellosis due to Shigella sonnei                           Shigellosis due to Shigella sonnei
+36,A038,1,Other shigellosis                                            Other shigellosis
+37,A039,1,"Shigellosis, unspecified                                     Shigellosis, unspecified"
+38,A04,0,Other bacterial intestinal infections                        Other bacterial intestinal infections
+39,A040,1,Enteropathogenic Escherichia coli infection                  Enteropathogenic Escherichia coli infection
+40,A041,1,Enterotoxigenic Escherichia coli infection                   Enterotoxigenic Escherichia coli infection
+41,A042,1,Enteroinvasive Escherichia coli infection                    Enteroinvasive Escherichia coli infection
+42,A043,1,Enterohemorrhagic Escherichia coli infection                 Enterohemorrhagic Escherichia coli infection
+43,A044,1,Other intestinal Escherichia coli infections                 Other intestinal Escherichia coli infections
+44,A045,1,Campylobacter enteritis                                      Campylobacter enteritis
+45,A046,1,Enteritis due to Yersinia enterocolitica                     Enteritis due to Yersinia enterocolitica
+46,A047,0,Enterocolitis due to Clostridium difficile                   Enterocolitis due to Clostridium difficile
+47,A0471,1,"Enterocolitis due to Clostridium difficile, recurrent        Enterocolitis due to Clostridium difficile, recurrent"
+48,A0472,1,"Enterocolitis d/t Clostridium difficile, not spcf as recur   Enterocolitis due to Clostridium difficile, not specified as recurrent"
+49,A048,1,Other specified bacterial intestinal infections              Other specified bacterial intestinal infections
+50,A049,1,"Bacterial intestinal infection, unspecified                  Bacterial intestinal infection, unspecified"
+51,A05,0,"Oth bacterial foodborne intoxications, NEC                   Other bacterial foodborne intoxications, not elsewhere classified"
+52,A050,1,Foodborne staphylococcal intoxication                        Foodborne staphylococcal intoxication
+53,A051,1,Botulism food poisoning                                      Botulism food poisoning
+54,A052,1,Foodborne Clostridium perfringens intoxication               Foodborne Clostridium perfringens [Clostridium welchii] intoxication
+55,A053,1,Foodborne Vibrio parahaemolyticus intoxication               Foodborne Vibrio parahaemolyticus intoxication
+56,A054,1,Foodborne Bacillus cereus intoxication                       Foodborne Bacillus cereus intoxication
+57,A055,1,Foodborne Vibrio vulnificus intoxication                     Foodborne Vibrio vulnificus intoxication
+58,A058,1,Other specified bacterial foodborne intoxications            Other specified bacterial foodborne intoxications
+59,A059,1,"Bacterial foodborne intoxication, unspecified                Bacterial foodborne intoxication, unspecified"
+60,A06,0,Amebiasis                                                    Amebiasis
+61,A060,1,Acute amebic dysentery                                       Acute amebic dysentery
+62,A061,1,Chronic intestinal amebiasis                                 Chronic intestinal amebiasis
+63,A062,1,Amebic nondysenteric colitis                                 Amebic nondysenteric colitis
+64,A063,1,Ameboma of intestine                                         Ameboma of intestine
+65,A064,1,Amebic liver abscess                                         Amebic liver abscess
+66,A065,1,Amebic lung abscess                                          Amebic lung abscess
+67,A066,1,Amebic brain abscess                                         Amebic brain abscess
+68,A067,1,Cutaneous amebiasis                                          Cutaneous amebiasis
+69,A068,0,Amebic infection of other sites                              Amebic infection of other sites
+70,A0681,1,Amebic cystitis                                              Amebic cystitis
+71,A0682,1,Other amebic genitourinary infections                        Other amebic genitourinary infections
+72,A0689,1,Other amebic infections                                      Other amebic infections
+73,A069,1,"Amebiasis, unspecified                                       Amebiasis, unspecified"
+74,A07,0,Other protozoal intestinal diseases                          Other protozoal intestinal diseases
+75,A070,1,Balantidiasis                                                Balantidiasis
+76,A071,1,Giardiasis [lambliasis]                                      Giardiasis [lambliasis]
+77,A072,1,Cryptosporidiosis                                            Cryptosporidiosis
+78,A073,1,Isosporiasis                                                 Isosporiasis
+79,A074,1,Cyclosporiasis                                               Cyclosporiasis
+80,A078,1,Other specified protozoal intestinal diseases                Other specified protozoal intestinal diseases
+81,A079,1,"Protozoal intestinal disease, unspecified                    Protozoal intestinal disease, unspecified"
+82,A08,0,Viral and other specified intestinal infections              Viral and other specified intestinal infections
+83,A080,1,Rotaviral enteritis                                          Rotaviral enteritis
+84,A081,0,Acute gastrent d/t Norwalk agent and oth small round viruses Acute gastroenteropathy due to Norwalk agent and other small round viruses
+85,A0811,1,Acute gastroenteropathy due to Norwalk agent                 Acute gastroenteropathy due to Norwalk agent
+86,A0819,1,Acute gastroenteropathy due to other small round viruses     Acute gastroenteropathy due to other small round viruses
+87,A082,1,Adenoviral enteritis                                         Adenoviral enteritis
+88,A083,0,Other viral enteritis                                        Other viral enteritis
+89,A0831,1,Calicivirus enteritis                                        Calicivirus enteritis
+90,A0832,1,Astrovirus enteritis                                         Astrovirus enteritis
+91,A0839,1,Other viral enteritis                                        Other viral enteritis
+92,A084,1,"Viral intestinal infection, unspecified                      Viral intestinal infection, unspecified"
+93,A088,1,Other specified intestinal infections                        Other specified intestinal infections
+94,A09,1,"Infectious gastroenteritis and colitis, unspecified          Infectious gastroenteritis and colitis, unspecified"
+95,A15,0,Respiratory tuberculosis                                     Respiratory tuberculosis
+96,A150,1,Tuberculosis of lung                                         Tuberculosis of lung
+97,A154,1,Tuberculosis of intrathoracic lymph nodes                    Tuberculosis of intrathoracic lymph nodes
+98,A155,1,"Tuberculosis of larynx, trachea and bronchus                 Tuberculosis of larynx, trachea and bronchus"
+99,A156,1,Tuberculous pleurisy                                         Tuberculous pleurisy
+100,A157,1,Primary respiratory tuberculosis                             Primary respiratory tuberculosis
+101,A158,1,Other respiratory tuberculosis                               Other respiratory tuberculosis
+102,A159,1,Respiratory tuberculosis unspecified                         Respiratory tuberculosis unspecified
+103,A17,0,Tuberculosis of nervous system                               Tuberculosis of nervous system
+104,A170,1,Tuberculous meningitis                                       Tuberculous meningitis
+105,A171,1,Meningeal tuberculoma                                        Meningeal tuberculoma
+106,A178,0,Other tuberculosis of nervous system                         Other tuberculosis of nervous system
+107,A1781,1,Tuberculoma of brain and spinal cord                         Tuberculoma of brain and spinal cord
+108,A1782,1,Tuberculous meningoencephalitis                              Tuberculous meningoencephalitis
+109,A1783,1,Tuberculous neuritis                                         Tuberculous neuritis
+110,A1789,1,Other tuberculosis of nervous system                         Other tuberculosis of nervous system
+111,A179,1,"Tuberculosis of nervous system, unspecified                  Tuberculosis of nervous system, unspecified"
+112,A18,0,Tuberculosis of other organs                                 Tuberculosis of other organs
+113,A180,0,Tuberculosis of bones and joints                             Tuberculosis of bones and joints
+114,A1801,1,Tuberculosis of spine                                        Tuberculosis of spine
+115,A1802,1,Tuberculous arthritis of other joints                        Tuberculous arthritis of other joints
+116,A1803,1,Tuberculosis of other bones                                  Tuberculosis of other bones
+117,A1809,1,Other musculoskeletal tuberculosis                           Other musculoskeletal tuberculosis
+118,A181,0,Tuberculosis of genitourinary system                         Tuberculosis of genitourinary system
+119,A1810,1,"Tuberculosis of genitourinary system, unspecified            Tuberculosis of genitourinary system, unspecified"
+120,A1811,1,Tuberculosis of kidney and ureter                            Tuberculosis of kidney and ureter
+121,A1812,1,Tuberculosis of bladder                                      Tuberculosis of bladder
+122,A1813,1,Tuberculosis of other urinary organs                         Tuberculosis of other urinary organs
+123,A1814,1,Tuberculosis of prostate                                     Tuberculosis of prostate
+124,A1815,1,Tuberculosis of other male genital organs                    Tuberculosis of other male genital organs
+125,A1816,1,Tuberculosis of cervix                                       Tuberculosis of cervix
+126,A1817,1,Tuberculous female pelvic inflammatory disease               Tuberculous female pelvic inflammatory disease
+127,A1818,1,Tuberculosis of other female genital organs                  Tuberculosis of other female genital organs
+128,A182,1,Tuberculous peripheral lymphadenopathy                       Tuberculous peripheral lymphadenopathy
+129,A183,0,"Tuberculosis of intestines, peritoneum and mesenteric glands Tuberculosis of intestines, peritoneum and mesenteric glands"
+130,A1831,1,Tuberculous peritonitis                                      Tuberculous peritonitis
+131,A1832,1,Tuberculous enteritis                                        Tuberculous enteritis
+132,A1839,1,Retroperitoneal tuberculosis                                 Retroperitoneal tuberculosis
+133,A184,1,Tuberculosis of skin and subcutaneous tissue                 Tuberculosis of skin and subcutaneous tissue
+134,A185,0,Tuberculosis of eye                                          Tuberculosis of eye
+135,A1850,1,"Tuberculosis of eye, unspecified                             Tuberculosis of eye, unspecified"
+136,A1851,1,Tuberculous episcleritis                                     Tuberculous episcleritis
+137,A1852,1,Tuberculous keratitis                                        Tuberculous keratitis
+138,A1853,1,Tuberculous chorioretinitis                                  Tuberculous chorioretinitis
+139,A1854,1,Tuberculous iridocyclitis                                    Tuberculous iridocyclitis
+140,A1859,1,Other tuberculosis of eye                                    Other tuberculosis of eye
+141,A186,1,Tuberculosis of (inner) (middle) ear                         Tuberculosis of (inner) (middle) ear
+142,A187,1,Tuberculosis of adrenal glands                               Tuberculosis of adrenal glands
+143,A188,0,Tuberculosis of other specified organs                       Tuberculosis of other specified organs
+144,A1881,1,Tuberculosis of thyroid gland                                Tuberculosis of thyroid gland
+145,A1882,1,Tuberculosis of other endocrine glands                       Tuberculosis of other endocrine glands
+146,A1883,1,"Tuberculosis of digestive tract organs, NEC                  Tuberculosis of digestive tract organs, not elsewhere classified"
+147,A1884,1,Tuberculosis of heart                                        Tuberculosis of heart
+148,A1885,1,Tuberculosis of spleen                                       Tuberculosis of spleen
+149,A1889,1,Tuberculosis of other sites                                  Tuberculosis of other sites
+150,A19,0,Miliary tuberculosis                                         Miliary tuberculosis
+151,A190,1,Acute miliary tuberculosis of a single specified site        Acute miliary tuberculosis of a single specified site
+152,A191,1,Acute miliary tuberculosis of multiple sites                 Acute miliary tuberculosis of multiple sites
+153,A192,1,"Acute miliary tuberculosis, unspecified                      Acute miliary tuberculosis, unspecified"
+154,A198,1,Other miliary tuberculosis                                   Other miliary tuberculosis
+155,A199,1,"Miliary tuberculosis, unspecified                            Miliary tuberculosis, unspecified"
+156,A20,0,Plague                                                       Plague
+157,A200,1,Bubonic plague                                               Bubonic plague
+158,A201,1,Cellulocutaneous plague                                      Cellulocutaneous plague
+159,A202,1,Pneumonic plague                                             Pneumonic plague
+160,A203,1,Plague meningitis                                            Plague meningitis
+161,A207,1,Septicemic plague                                            Septicemic plague
+162,A208,1,Other forms of plague                                        Other forms of plague
+163,A209,1,"Plague, unspecified                                          Plague, unspecified"
+164,A21,0,Tularemia                                                    Tularemia
+165,A210,1,Ulceroglandular tularemia                                    Ulceroglandular tularemia
+166,A211,1,Oculoglandular tularemia                                     Oculoglandular tularemia
+167,A212,1,Pulmonary tularemia                                          Pulmonary tularemia
+168,A213,1,Gastrointestinal tularemia                                   Gastrointestinal tularemia
+169,A217,1,Generalized tularemia                                        Generalized tularemia
+170,A218,1,Other forms of tularemia                                     Other forms of tularemia
+171,A219,1,"Tularemia, unspecified                                       Tularemia, unspecified"
+172,A22,0,Anthrax                                                      Anthrax
+173,A220,1,Cutaneous anthrax                                            Cutaneous anthrax
+174,A221,1,Pulmonary anthrax                                            Pulmonary anthrax
+175,A222,1,Gastrointestinal anthrax                                     Gastrointestinal anthrax
+176,A227,1,Anthrax sepsis                                               Anthrax sepsis
+177,A228,1,Other forms of anthrax                                       Other forms of anthrax
+178,A229,1,"Anthrax, unspecified                                         Anthrax, unspecified"
+179,A23,0,Brucellosis                                                  Brucellosis
+180,A230,1,Brucellosis due to Brucella melitensis                       Brucellosis due to Brucella melitensis
+181,A231,1,Brucellosis due to Brucella abortus                          Brucellosis due to Brucella abortus
+182,A232,1,Brucellosis due to Brucella suis                             Brucellosis due to Brucella suis
+183,A233,1,Brucellosis due to Brucella canis                            Brucellosis due to Brucella canis
+184,A238,1,Other brucellosis                                            Other brucellosis
+185,A239,1,"Brucellosis, unspecified                                     Brucellosis, unspecified"
+186,A24,0,Glanders and melioidosis                                     Glanders and melioidosis
+187,A240,1,Glanders                                                     Glanders
+188,A241,1,Acute and fulminating melioidosis                            Acute and fulminating melioidosis
+189,A242,1,Subacute and chronic melioidosis                             Subacute and chronic melioidosis
+190,A243,1,Other melioidosis                                            Other melioidosis
+191,A249,1,"Melioidosis, unspecified                                     Melioidosis, unspecified"
+192,A25,0,Rat-bite fevers                                              Rat-bite fevers
+193,A250,1,Spirillosis                                                  Spirillosis
+194,A251,1,Streptobacillosis                                            Streptobacillosis
+195,A259,1,"Rat-bite fever, unspecified                                  Rat-bite fever, unspecified"
+196,A26,0,Erysipeloid                                                  Erysipeloid
+197,A260,1,Cutaneous erysipeloid                                        Cutaneous erysipeloid
+198,A267,1,Erysipelothrix sepsis                                        Erysipelothrix sepsis
+199,A268,1,Other forms of erysipeloid                                   Other forms of erysipeloid
+200,A269,1,"Erysipeloid, unspecified                                     Erysipeloid, unspecified"
+201,A27,0,Leptospirosis                                                Leptospirosis
+202,A270,1,Leptospirosis icterohemorrhagica                             Leptospirosis icterohemorrhagica
+203,A278,0,Other forms of leptospirosis                                 Other forms of leptospirosis
+204,A2781,1,Aseptic meningitis in leptospirosis                          Aseptic meningitis in leptospirosis
+205,A2789,1,Other forms of leptospirosis                                 Other forms of leptospirosis
+206,A279,1,"Leptospirosis, unspecified                                   Leptospirosis, unspecified"
+207,A28,0,"Other zoonotic bacterial diseases, not elsewhere classified  Other zoonotic bacterial diseases, not elsewhere classified"
+208,A280,1,Pasteurellosis                                               Pasteurellosis
+209,A281,1,Cat-scratch disease                                          Cat-scratch disease
+210,A282,1,Extraintestinal yersiniosis                                  Extraintestinal yersiniosis
+211,A288,1,"Oth zoonotic bacterial diseases, not elsewhere classified    Other specified zoonotic bacterial diseases, not elsewhere classified"
+212,A289,1,"Zoonotic bacterial disease, unspecified                      Zoonotic bacterial disease, unspecified"
+213,A30,0,Leprosy [Hansen's disease]                                   Leprosy [Hansen's disease]
+214,A300,1,Indeterminate leprosy                                        Indeterminate leprosy
+215,A301,1,Tuberculoid leprosy                                          Tuberculoid leprosy
+216,A302,1,Borderline tuberculoid leprosy                               Borderline tuberculoid leprosy
+217,A303,1,Borderline leprosy                                           Borderline leprosy
+218,A304,1,Borderline lepromatous leprosy                               Borderline lepromatous leprosy
+219,A305,1,Lepromatous leprosy                                          Lepromatous leprosy
+220,A308,1,Other forms of leprosy                                       Other forms of leprosy
+221,A309,1,"Leprosy, unspecified                                         Leprosy, unspecified"
+222,A31,0,Infection due to other mycobacteria                          Infection due to other mycobacteria
+223,A310,1,Pulmonary mycobacterial infection                            Pulmonary mycobacterial infection
+224,A311,1,Cutaneous mycobacterial infection                            Cutaneous mycobacterial infection
+225,A312,1,Dissem mycobacterium avium-intracellulare complex (DMAC)     Disseminated mycobacterium avium-intracellulare complex (DMAC)
+226,A318,1,Other mycobacterial infections                               Other mycobacterial infections
+227,A319,1,"Mycobacterial infection, unspecified                         Mycobacterial infection, unspecified"
+228,A32,0,Listeriosis                                                  Listeriosis
+229,A320,1,Cutaneous listeriosis                                        Cutaneous listeriosis
+230,A321,0,Listerial meningitis and meningoencephalitis                 Listerial meningitis and meningoencephalitis
+231,A3211,1,Listerial meningitis                                         Listerial meningitis
+232,A3212,1,Listerial meningoencephalitis                                Listerial meningoencephalitis
+233,A327,1,Listerial sepsis                                             Listerial sepsis
+234,A328,0,Other forms of listeriosis                                   Other forms of listeriosis
+235,A3281,1,Oculoglandular listeriosis                                   Oculoglandular listeriosis
+236,A3282,1,Listerial endocarditis                                       Listerial endocarditis
+237,A3289,1,Other forms of listeriosis                                   Other forms of listeriosis
+238,A329,1,"Listeriosis, unspecified                                     Listeriosis, unspecified"
+239,A33,1,Tetanus neonatorum                                           Tetanus neonatorum
+240,A34,1,Obstetrical tetanus                                          Obstetrical tetanus
+241,A35,1,Other tetanus                                                Other tetanus
+242,A36,0,Diphtheria                                                   Diphtheria
+243,A360,1,Pharyngeal diphtheria                                        Pharyngeal diphtheria
+244,A361,1,Nasopharyngeal diphtheria                                    Nasopharyngeal diphtheria
+245,A362,1,Laryngeal diphtheria                                         Laryngeal diphtheria
+246,A363,1,Cutaneous diphtheria                                         Cutaneous diphtheria
+247,A368,0,Other diphtheria                                             Other diphtheria
+248,A3681,1,Diphtheritic cardiomyopathy                                  Diphtheritic cardiomyopathy
+249,A3682,1,Diphtheritic radiculomyelitis                                Diphtheritic radiculomyelitis
+250,A3683,1,Diphtheritic polyneuritis                                    Diphtheritic polyneuritis
+251,A3684,1,Diphtheritic tubulo-interstitial nephropathy                 Diphtheritic tubulo-interstitial nephropathy
+252,A3685,1,Diphtheritic cystitis                                        Diphtheritic cystitis
+253,A3686,1,Diphtheritic conjunctivitis                                  Diphtheritic conjunctivitis
+254,A3689,1,Other diphtheritic complications                             Other diphtheritic complications
+255,A369,1,"Diphtheria, unspecified                                      Diphtheria, unspecified"
+256,A37,0,Whooping cough                                               Whooping cough
+257,A370,0,Whooping cough due to Bordetella pertussis                   Whooping cough due to Bordetella pertussis
+258,A3700,1,Whooping cough due to Bordetella pertussis without pneumonia Whooping cough due to Bordetella pertussis without pneumonia
+259,A3701,1,Whooping cough due to Bordetella pertussis with pneumonia    Whooping cough due to Bordetella pertussis with pneumonia
+260,A371,0,Whooping cough due to Bordetella parapertussis               Whooping cough due to Bordetella parapertussis
+261,A3710,1,Whooping cough due to Bordetella parapertussis w/o pneumonia Whooping cough due to Bordetella parapertussis without pneumonia
+262,A3711,1,Whooping cough due to Bordetella parapertussis w pneumonia   Whooping cough due to Bordetella parapertussis with pneumonia
+263,A378,0,Whooping cough due to other Bordetella species               Whooping cough due to other Bordetella species
+264,A3780,1,Whooping cough due to other Bordetella species w/o pneumonia Whooping cough due to other Bordetella species without pneumonia
+265,A3781,1,Whooping cough due to oth Bordetella species with pneumonia  Whooping cough due to other Bordetella species with pneumonia
+266,A379,0,"Whooping cough, unspecified species                          Whooping cough, unspecified species"
+267,A3790,1,"Whooping cough, unspecified species without pneumonia        Whooping cough, unspecified species without pneumonia"
+268,A3791,1,"Whooping cough, unspecified species with pneumonia           Whooping cough, unspecified species with pneumonia"
+269,A38,0,Scarlet fever                                                Scarlet fever
+270,A380,1,Scarlet fever with otitis media                              Scarlet fever with otitis media
+271,A381,1,Scarlet fever with myocarditis                               Scarlet fever with myocarditis
+272,A388,1,Scarlet fever with other complications                       Scarlet fever with other complications
+273,A389,1,"Scarlet fever, uncomplicated                                 Scarlet fever, uncomplicated"
+274,A39,0,Meningococcal infection                                      Meningococcal infection
+275,A390,1,Meningococcal meningitis                                     Meningococcal meningitis
+276,A391,1,Waterhouse-Friderichsen syndrome                             Waterhouse-Friderichsen syndrome
+277,A392,1,Acute meningococcemia                                        Acute meningococcemia
+278,A393,1,Chronic meningococcemia                                      Chronic meningococcemia
+279,A394,1,"Meningococcemia, unspecified                                 Meningococcemia, unspecified"
+280,A395,0,Meningococcal heart disease                                  Meningococcal heart disease
+281,A3950,1,"Meningococcal carditis, unspecified                          Meningococcal carditis, unspecified"
+282,A3951,1,Meningococcal endocarditis                                   Meningococcal endocarditis
+283,A3952,1,Meningococcal myocarditis                                    Meningococcal myocarditis
+284,A3953,1,Meningococcal pericarditis                                   Meningococcal pericarditis
+285,A398,0,Other meningococcal infections                               Other meningococcal infections
+286,A3981,1,Meningococcal encephalitis                                   Meningococcal encephalitis
+287,A3982,1,Meningococcal retrobulbar neuritis                           Meningococcal retrobulbar neuritis
+288,A3983,1,Meningococcal arthritis                                      Meningococcal arthritis
+289,A3984,1,Postmeningococcal arthritis                                  Postmeningococcal arthritis
+290,A3989,1,Other meningococcal infections                               Other meningococcal infections
+291,A399,1,"Meningococcal infection, unspecified                         Meningococcal infection, unspecified"
+292,A40,0,Streptococcal sepsis                                         Streptococcal sepsis
+293,A400,1,"Sepsis due to streptococcus, group A                         Sepsis due to streptococcus, group A"
+294,A401,1,"Sepsis due to streptococcus, group B                         Sepsis due to streptococcus, group B"
+295,A403,1,Sepsis due to Streptococcus pneumoniae                       Sepsis due to Streptococcus pneumoniae
+296,A408,1,Other streptococcal sepsis                                   Other streptococcal sepsis
+297,A409,1,"Streptococcal sepsis, unspecified                            Streptococcal sepsis, unspecified"
+298,A41,0,Other sepsis                                                 Other sepsis
+299,A410,0,Sepsis due to Staphylococcus aureus                          Sepsis due to Staphylococcus aureus
+300,A4101,1,Sepsis due to Methicillin susceptible Staphylococcus aureus  Sepsis due to Methicillin susceptible Staphylococcus aureus
+301,A4102,1,Sepsis due to Methicillin resistant Staphylococcus aureus    Sepsis due to Methicillin resistant Staphylococcus aureus
+302,A411,1,Sepsis due to other specified staphylococcus                 Sepsis due to other specified staphylococcus
+303,A412,1,Sepsis due to unspecified staphylococcus                     Sepsis due to unspecified staphylococcus
+304,A413,1,Sepsis due to Hemophilus influenzae                          Sepsis due to Hemophilus influenzae
+305,A414,1,Sepsis due to anaerobes                                      Sepsis due to anaerobes
+306,A415,0,Sepsis due to other Gram-negative organisms                  Sepsis due to other Gram-negative organisms
+307,A4150,1,"Gram-negative sepsis, unspecified                            Gram-negative sepsis, unspecified"
+308,A4151,1,Sepsis due to Escherichia coli [E. coli]                     Sepsis due to Escherichia coli [E. coli]
+309,A4152,1,Sepsis due to Pseudomonas                                    Sepsis due to Pseudomonas
+310,A4153,1,Sepsis due to Serratia                                       Sepsis due to Serratia
+311,A4154,1,Sepsis due to Acinetobacter baumannii                        Sepsis due to Acinetobacter baumannii
+312,A4159,1,Other Gram-negative sepsis                                   Other Gram-negative sepsis
+313,A418,0,Other specified sepsis                                       Other specified sepsis
+314,A4181,1,Sepsis due to Enterococcus                                   Sepsis due to Enterococcus
+315,A4189,1,Other specified sepsis                                       Other specified sepsis
+316,A419,1,"Sepsis, unspecified organism                                 Sepsis, unspecified organism"
+317,A42,0,Actinomycosis                                                Actinomycosis
+318,A420,1,Pulmonary actinomycosis                                      Pulmonary actinomycosis
+319,A421,1,Abdominal actinomycosis                                      Abdominal actinomycosis
+320,A422,1,Cervicofacial actinomycosis                                  Cervicofacial actinomycosis
+321,A427,1,Actinomycotic sepsis                                         Actinomycotic sepsis
+322,A428,0,Other forms of actinomycosis                                 Other forms of actinomycosis
+323,A4281,1,Actinomycotic meningitis                                     Actinomycotic meningitis
+324,A4282,1,Actinomycotic encephalitis                                   Actinomycotic encephalitis
+325,A4289,1,Other forms of actinomycosis                                 Other forms of actinomycosis
+326,A429,1,"Actinomycosis, unspecified                                   Actinomycosis, unspecified"
+327,A43,0,Nocardiosis                                                  Nocardiosis
+328,A430,1,Pulmonary nocardiosis                                        Pulmonary nocardiosis
+329,A431,1,Cutaneous nocardiosis                                        Cutaneous nocardiosis
+330,A438,1,Other forms of nocardiosis                                   Other forms of nocardiosis
+331,A439,1,"Nocardiosis, unspecified                                     Nocardiosis, unspecified"
+332,A44,0,Bartonellosis                                                Bartonellosis
+333,A440,1,Systemic bartonellosis                                       Systemic bartonellosis
+334,A441,1,Cutaneous and mucocutaneous bartonellosis                    Cutaneous and mucocutaneous bartonellosis
+335,A448,1,Other forms of bartonellosis                                 Other forms of bartonellosis
+336,A449,1,"Bartonellosis, unspecified                                   Bartonellosis, unspecified"
+337,A46,1,Erysipelas                                                   Erysipelas
+338,A48,0,"Other bacterial diseases, not elsewhere classified           Other bacterial diseases, not elsewhere classified"
+339,A480,1,Gas gangrene                                                 Gas gangrene
+340,A481,1,Legionnaires' disease                                        Legionnaires' disease
+341,A482,1,Nonpneumonic Legionnaires' disease [Pontiac fever]           Nonpneumonic Legionnaires' disease [Pontiac fever]
+342,A483,1,Toxic shock syndrome                                         Toxic shock syndrome
+343,A484,1,Brazilian purpuric fever                                     Brazilian purpuric fever
+344,A485,0,Other specified botulism                                     Other specified botulism
+345,A4851,1,Infant botulism                                              Infant botulism
+346,A4852,1,Wound botulism                                               Wound botulism
+347,A488,1,Other specified bacterial diseases                           Other specified bacterial diseases
+348,A49,0,Bacterial infection of unspecified site                      Bacterial infection of unspecified site
+349,A490,0,"Staphylococcal infection, unspecified site                   Staphylococcal infection, unspecified site"
+350,A4901,1,"Methicillin suscep staph infection, unsp site                Methicillin susceptible Staphylococcus aureus infection, unspecified site"
+351,A4902,1,"Methicillin resis staph infection, unsp site                 Methicillin resistant Staphylococcus aureus infection, unspecified site"
+352,A491,1,"Streptococcal infection, unspecified site                    Streptococcal infection, unspecified site"
+353,A492,1,"Hemophilus influenzae infection, unspecified site            Hemophilus influenzae infection, unspecified site"
+354,A493,1,"Mycoplasma infection, unspecified site                       Mycoplasma infection, unspecified site"
+355,A498,1,Other bacterial infections of unspecified site               Other bacterial infections of unspecified site
+356,A499,1,"Bacterial infection, unspecified                             Bacterial infection, unspecified"
+357,A50,0,Congenital syphilis                                          Congenital syphilis
+358,A500,0,"Early congenital syphilis, symptomatic                       Early congenital syphilis, symptomatic"
+359,A5001,1,Early congenital syphilitic oculopathy                       Early congenital syphilitic oculopathy
+360,A5002,1,Early congenital syphilitic osteochondropathy                Early congenital syphilitic osteochondropathy
+361,A5003,1,Early congenital syphilitic pharyngitis                      Early congenital syphilitic pharyngitis
+362,A5004,1,Early congenital syphilitic pneumonia                        Early congenital syphilitic pneumonia
+363,A5005,1,Early congenital syphilitic rhinitis                         Early congenital syphilitic rhinitis
+364,A5006,1,Early cutaneous congenital syphilis                          Early cutaneous congenital syphilis
+365,A5007,1,Early mucocutaneous congenital syphilis                      Early mucocutaneous congenital syphilis
+366,A5008,1,Early visceral congenital syphilis                           Early visceral congenital syphilis
+367,A5009,1,"Other early congenital syphilis, symptomatic                 Other early congenital syphilis, symptomatic"
+368,A501,1,"Early congenital syphilis, latent                            Early congenital syphilis, latent"
+369,A502,1,"Early congenital syphilis, unspecified                       Early congenital syphilis, unspecified"
+370,A503,0,Late congenital syphilitic oculopathy                        Late congenital syphilitic oculopathy
+371,A5030,1,"Late congenital syphilitic oculopathy, unspecified           Late congenital syphilitic oculopathy, unspecified"
+372,A5031,1,Late congenital syphilitic interstitial keratitis            Late congenital syphilitic interstitial keratitis
+373,A5032,1,Late congenital syphilitic chorioretinitis                   Late congenital syphilitic chorioretinitis
+374,A5039,1,Other late congenital syphilitic oculopathy                  Other late congenital syphilitic oculopathy
+375,A504,0,Late congenital neurosyphilis [juvenile neurosyphilis]       Late congenital neurosyphilis [juvenile neurosyphilis]
+376,A5040,1,"Late congenital neurosyphilis, unspecified                   Late congenital neurosyphilis, unspecified"
+377,A5041,1,Late congenital syphilitic meningitis                        Late congenital syphilitic meningitis
+378,A5042,1,Late congenital syphilitic encephalitis                      Late congenital syphilitic encephalitis
+379,A5043,1,Late congenital syphilitic polyneuropathy                    Late congenital syphilitic polyneuropathy
+380,A5044,1,Late congenital syphilitic optic nerve atrophy               Late congenital syphilitic optic nerve atrophy
+381,A5045,1,Juvenile general paresis                                     Juvenile general paresis
+382,A5049,1,Other late congenital neurosyphilis                          Other late congenital neurosyphilis
+383,A505,0,"Other late congenital syphilis, symptomatic                  Other late congenital syphilis, symptomatic"
+384,A5051,1,Clutton's joints                                             Clutton's joints
+385,A5052,1,Hutchinson's teeth                                           Hutchinson's teeth
+386,A5053,1,Hutchinson's triad                                           Hutchinson's triad
+387,A5054,1,Late congenital cardiovascular syphilis                      Late congenital cardiovascular syphilis
+388,A5055,1,Late congenital syphilitic arthropathy                       Late congenital syphilitic arthropathy
+389,A5056,1,Late congenital syphilitic osteochondropathy                 Late congenital syphilitic osteochondropathy
+390,A5057,1,Syphilitic saddle nose                                       Syphilitic saddle nose
+391,A5059,1,"Other late congenital syphilis, symptomatic                  Other late congenital syphilis, symptomatic"
+392,A506,1,"Late congenital syphilis, latent                             Late congenital syphilis, latent"
+393,A507,1,"Late congenital syphilis, unspecified                        Late congenital syphilis, unspecified"
+394,A509,1,"Congenital syphilis, unspecified                             Congenital syphilis, unspecified"
+395,A51,0,Early syphilis                                               Early syphilis
+396,A510,1,Primary genital syphilis                                     Primary genital syphilis
+397,A511,1,Primary anal syphilis                                        Primary anal syphilis
+398,A512,1,Primary syphilis of other sites                              Primary syphilis of other sites
+399,A513,0,Secondary syphilis of skin and mucous membranes              Secondary syphilis of skin and mucous membranes
+400,A5131,1,Condyloma latum                                              Condyloma latum
+401,A5132,1,Syphilitic alopecia                                          Syphilitic alopecia
+402,A5139,1,Other secondary syphilis of skin                             Other secondary syphilis of skin
+403,A514,0,Other secondary syphilis                                     Other secondary syphilis
+404,A5141,1,Secondary syphilitic meningitis                              Secondary syphilitic meningitis
+405,A5142,1,Secondary syphilitic female pelvic disease                   Secondary syphilitic female pelvic disease
+406,A5143,1,Secondary syphilitic oculopathy                              Secondary syphilitic oculopathy
+407,A5144,1,Secondary syphilitic nephritis                               Secondary syphilitic nephritis
+408,A5145,1,Secondary syphilitic hepatitis                               Secondary syphilitic hepatitis
+409,A5146,1,Secondary syphilitic osteopathy                              Secondary syphilitic osteopathy
+410,A5149,1,Other secondary syphilitic conditions                        Other secondary syphilitic conditions
+411,A515,1,"Early syphilis, latent                                       Early syphilis, latent"
+412,A519,1,"Early syphilis, unspecified                                  Early syphilis, unspecified"
+413,A52,0,Late syphilis                                                Late syphilis
+414,A520,0,Cardiovascular and cerebrovascular syphilis                  Cardiovascular and cerebrovascular syphilis
+415,A5200,1,"Cardiovascular syphilis, unspecified                         Cardiovascular syphilis, unspecified"
+416,A5201,1,Syphilitic aneurysm of aorta                                 Syphilitic aneurysm of aorta
+417,A5202,1,Syphilitic aortitis                                          Syphilitic aortitis
+418,A5203,1,Syphilitic endocarditis                                      Syphilitic endocarditis
+419,A5204,1,Syphilitic cerebral arteritis                                Syphilitic cerebral arteritis
+420,A5205,1,Other cerebrovascular syphilis                               Other cerebrovascular syphilis
+421,A5206,1,Other syphilitic heart involvement                           Other syphilitic heart involvement
+422,A5209,1,Other cardiovascular syphilis                                Other cardiovascular syphilis
+423,A521,0,Symptomatic neurosyphilis                                    Symptomatic neurosyphilis
+424,A5210,1,"Symptomatic neurosyphilis, unspecified                       Symptomatic neurosyphilis, unspecified"
+425,A5211,1,Tabes dorsalis                                               Tabes dorsalis
+426,A5212,1,Other cerebrospinal syphilis                                 Other cerebrospinal syphilis
+427,A5213,1,Late syphilitic meningitis                                   Late syphilitic meningitis
+428,A5214,1,Late syphilitic encephalitis                                 Late syphilitic encephalitis
+429,A5215,1,Late syphilitic neuropathy                                   Late syphilitic neuropathy
+430,A5216,1,Charcot's arthropathy (tabetic)                              Charcot's arthropathy (tabetic)
+431,A5217,1,General paresis                                              General paresis
+432,A5219,1,Other symptomatic neurosyphilis                              Other symptomatic neurosyphilis
+433,A522,1,Asymptomatic neurosyphilis                                   Asymptomatic neurosyphilis
+434,A523,1,"Neurosyphilis, unspecified                                   Neurosyphilis, unspecified"
+435,A527,0,Other symptomatic late syphilis                              Other symptomatic late syphilis
+436,A5271,1,Late syphilitic oculopathy                                   Late syphilitic oculopathy
+437,A5272,1,Syphilis of lung and bronchus                                Syphilis of lung and bronchus
+438,A5273,1,Symptomatic late syphilis of other respiratory organs        Symptomatic late syphilis of other respiratory organs
+439,A5274,1,Syphilis of liver and other viscera                          Syphilis of liver and other viscera
+440,A5275,1,Syphilis of kidney and ureter                                Syphilis of kidney and ureter
+441,A5276,1,Other genitourinary symptomatic late syphilis                Other genitourinary symptomatic late syphilis
+442,A5277,1,Syphilis of bone and joint                                   Syphilis of bone and joint
+443,A5278,1,Syphilis of other musculoskeletal tissue                     Syphilis of other musculoskeletal tissue
+444,A5279,1,Other symptomatic late syphilis                              Other symptomatic late syphilis
+445,A528,1,"Late syphilis, latent                                        Late syphilis, latent"
+446,A529,1,"Late syphilis, unspecified                                   Late syphilis, unspecified"
+447,A53,0,Other and unspecified syphilis                               Other and unspecified syphilis
+448,A530,1,"Latent syphilis, unspecified as early or late                Latent syphilis, unspecified as early or late"
+449,A539,1,"Syphilis, unspecified                                        Syphilis, unspecified"
+450,A54,0,Gonococcal infection                                         Gonococcal infection
+451,A540,0,Gonocl infct of low GU tract w/o periureth or acc glnd abcs  Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess
+452,A5400,1,"Gonococcal infection of lower genitourinary tract, unsp      Gonococcal infection of lower genitourinary tract, unspecified"
+453,A5401,1,"Gonococcal cystitis and urethritis, unspecified              Gonococcal cystitis and urethritis, unspecified"
+454,A5402,1,"Gonococcal vulvovaginitis, unspecified                       Gonococcal vulvovaginitis, unspecified"
+455,A5403,1,"Gonococcal cervicitis, unspecified                           Gonococcal cervicitis, unspecified"
+456,A5409,1,Other gonococcal infection of lower genitourinary tract      Other gonococcal infection of lower genitourinary tract
+457,A541,1,Gonocl infct of lower GU tract w periureth and acc glnd abcs Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess
+458,A542,0,Gonococcal pelviperitonitis and oth gonococcal GU infection  Gonococcal pelviperitonitis and other gonococcal genitourinary infection
+459,A5421,1,Gonococcal infection of kidney and ureter                    Gonococcal infection of kidney and ureter
+460,A5422,1,Gonococcal prostatitis                                       Gonococcal prostatitis
+461,A5423,1,Gonococcal infection of other male genital organs            Gonococcal infection of other male genital organs
+462,A5424,1,Gonococcal female pelvic inflammatory disease                Gonococcal female pelvic inflammatory disease
+463,A5429,1,Other gonococcal genitourinary infections                    Other gonococcal genitourinary infections
+464,A543,0,Gonococcal infection of eye                                  Gonococcal infection of eye
+465,A5430,1,"Gonococcal infection of eye, unspecified                     Gonococcal infection of eye, unspecified"
+466,A5431,1,Gonococcal conjunctivitis                                    Gonococcal conjunctivitis
+467,A5432,1,Gonococcal iridocyclitis                                     Gonococcal iridocyclitis
+468,A5433,1,Gonococcal keratitis                                         Gonococcal keratitis
+469,A5439,1,Other gonococcal eye infection                               Other gonococcal eye infection
+470,A544,0,Gonococcal infection of musculoskeletal system               Gonococcal infection of musculoskeletal system
+471,A5440,1,"Gonococcal infection of musculoskeletal system, unspecified  Gonococcal infection of musculoskeletal system, unspecified"
+472,A5441,1,Gonococcal spondylopathy                                     Gonococcal spondylopathy
+473,A5442,1,Gonococcal arthritis                                         Gonococcal arthritis
+474,A5443,1,Gonococcal osteomyelitis                                     Gonococcal osteomyelitis
+475,A5449,1,Gonococcal infection of other musculoskeletal tissue         Gonococcal infection of other musculoskeletal tissue
+476,A545,1,Gonococcal pharyngitis                                       Gonococcal pharyngitis
+477,A546,1,Gonococcal infection of anus and rectum                      Gonococcal infection of anus and rectum
+478,A548,0,Other gonococcal infections                                  Other gonococcal infections
+479,A5481,1,Gonococcal meningitis                                        Gonococcal meningitis
+480,A5482,1,Gonococcal brain abscess                                     Gonococcal brain abscess
+481,A5483,1,Gonococcal heart infection                                   Gonococcal heart infection
+482,A5484,1,Gonococcal pneumonia                                         Gonococcal pneumonia
+483,A5485,1,Gonococcal peritonitis                                       Gonococcal peritonitis
+484,A5486,1,Gonococcal sepsis                                            Gonococcal sepsis
+485,A5489,1,Other gonococcal infections                                  Other gonococcal infections
+486,A549,1,"Gonococcal infection, unspecified                            Gonococcal infection, unspecified"
+487,A55,1,Chlamydial lymphogranuloma (venereum)                        Chlamydial lymphogranuloma (venereum)
+488,A56,0,Other sexually transmitted chlamydial diseases               Other sexually transmitted chlamydial diseases
+489,A560,0,Chlamydial infection of lower genitourinary tract            Chlamydial infection of lower genitourinary tract
+490,A5600,1,"Chlamydial infection of lower genitourinary tract, unsp      Chlamydial infection of lower genitourinary tract, unspecified"
+491,A5601,1,Chlamydial cystitis and urethritis                           Chlamydial cystitis and urethritis
+492,A5602,1,Chlamydial vulvovaginitis                                    Chlamydial vulvovaginitis
+493,A5609,1,Other chlamydial infection of lower genitourinary tract      Other chlamydial infection of lower genitourinary tract
+494,A561,0,Chlamydial infection of pelviperitoneum and oth GU organs    Chlamydial infection of pelviperitoneum and other genitourinary organs
+495,A5611,1,Chlamydial female pelvic inflammatory disease                Chlamydial female pelvic inflammatory disease
+496,A5619,1,Other chlamydial genitourinary infection                     Other chlamydial genitourinary infection
+497,A562,1,"Chlamydial infection of genitourinary tract, unspecified     Chlamydial infection of genitourinary tract, unspecified"
+498,A563,1,Chlamydial infection of anus and rectum                      Chlamydial infection of anus and rectum
+499,A564,1,Chlamydial infection of pharynx                              Chlamydial infection of pharynx
+500,A568,1,Sexually transmitted chlamydial infection of other sites     Sexually transmitted chlamydial infection of other sites
+501,A57,1,Chancroid                                                    Chancroid
+502,A58,1,Granuloma inguinale                                          Granuloma inguinale
+503,A59,0,Trichomoniasis                                               Trichomoniasis
+504,A590,0,Urogenital trichomoniasis                                    Urogenital trichomoniasis
+505,A5900,1,"Urogenital trichomoniasis, unspecified                       Urogenital trichomoniasis, unspecified"
+506,A5901,1,Trichomonal vulvovaginitis                                   Trichomonal vulvovaginitis
+507,A5902,1,Trichomonal prostatitis                                      Trichomonal prostatitis
+508,A5903,1,Trichomonal cystitis and urethritis                          Trichomonal cystitis and urethritis
+509,A5909,1,Other urogenital trichomoniasis                              Other urogenital trichomoniasis
+510,A598,1,Trichomoniasis of other sites                                Trichomoniasis of other sites
+511,A599,1,"Trichomoniasis, unspecified                                  Trichomoniasis, unspecified"
+512,A60,0,Anogenital herpesviral [herpes simplex] infections           Anogenital herpesviral [herpes simplex] infections
+513,A600,0,Herpesviral infection of genitalia and urogenital tract      Herpesviral infection of genitalia and urogenital tract
+514,A6000,1,"Herpesviral infection of urogenital system, unspecified      Herpesviral infection of urogenital system, unspecified"
+515,A6001,1,Herpesviral infection of penis                               Herpesviral infection of penis
+516,A6002,1,Herpesviral infection of other male genital organs           Herpesviral infection of other male genital organs
+517,A6003,1,Herpesviral cervicitis                                       Herpesviral cervicitis
+518,A6004,1,Herpesviral vulvovaginitis                                   Herpesviral vulvovaginitis
+519,A6009,1,Herpesviral infection of other urogenital tract              Herpesviral infection of other urogenital tract
+520,A601,1,Herpesviral infection of perianal skin and rectum            Herpesviral infection of perianal skin and rectum
+521,A609,1,"Anogenital herpesviral infection, unspecified                Anogenital herpesviral infection, unspecified"
+522,A63,0,"Oth predominantly sexually transmitted diseases, NEC         Other predominantly sexually transmitted diseases, not elsewhere classified"
+523,A630,1,Anogenital (venereal) warts                                  Anogenital (venereal) warts
+524,A638,1,Other specified predominantly sexually transmitted diseases  Other specified predominantly sexually transmitted diseases
+525,A64,1,Unspecified sexually transmitted disease                     Unspecified sexually transmitted disease
+526,A65,1,Nonvenereal syphilis                                         Nonvenereal syphilis
+527,A66,0,Yaws                                                         Yaws
+528,A660,1,Initial lesions of yaws                                      Initial lesions of yaws
+529,A661,1,Multiple papillomata and wet crab yaws                       Multiple papillomata and wet crab yaws
+530,A662,1,Other early skin lesions of yaws                             Other early skin lesions of yaws
+531,A663,1,Hyperkeratosis of yaws                                       Hyperkeratosis of yaws
+532,A664,1,Gummata and ulcers of yaws                                   Gummata and ulcers of yaws
+533,A665,1,Gangosa                                                      Gangosa
+534,A666,1,Bone and joint lesions of yaws                               Bone and joint lesions of yaws
+535,A667,1,Other manifestations of yaws                                 Other manifestations of yaws
+536,A668,1,Latent yaws                                                  Latent yaws
+537,A669,1,"Yaws, unspecified                                            Yaws, unspecified"
+538,A67,0,Pinta [carate]                                               Pinta [carate]
+539,A670,1,Primary lesions of pinta                                     Primary lesions of pinta
+540,A671,1,Intermediate lesions of pinta                                Intermediate lesions of pinta
+541,A672,1,Late lesions of pinta                                        Late lesions of pinta
+542,A673,1,Mixed lesions of pinta                                       Mixed lesions of pinta
+543,A679,1,"Pinta, unspecified                                           Pinta, unspecified"
+544,A68,0,Relapsing fevers                                             Relapsing fevers
+545,A680,1,Louse-borne relapsing fever                                  Louse-borne relapsing fever
+546,A681,1,Tick-borne relapsing fever                                   Tick-borne relapsing fever
+547,A689,1,"Relapsing fever, unspecified                                 Relapsing fever, unspecified"
+548,A69,0,Other spirochetal infections                                 Other spirochetal infections
+549,A690,1,Necrotizing ulcerative stomatitis                            Necrotizing ulcerative stomatitis
+550,A691,1,Other Vincent's infections                                   Other Vincent's infections
+551,A692,0,Lyme disease                                                 Lyme disease
+552,A6920,1,"Lyme disease, unspecified                                    Lyme disease, unspecified"
+553,A6921,1,Meningitis due to Lyme disease                               Meningitis due to Lyme disease
+554,A6922,1,Other neurologic disorders in Lyme disease                   Other neurologic disorders in Lyme disease
+555,A6923,1,Arthritis due to Lyme disease                                Arthritis due to Lyme disease
+556,A6929,1,Other conditions associated with Lyme disease                Other conditions associated with Lyme disease
+557,A698,1,Other specified spirochetal infections                       Other specified spirochetal infections
+558,A699,1,"Spirochetal infection, unspecified                           Spirochetal infection, unspecified"
+559,A70,1,Chlamydia psittaci infections                                Chlamydia psittaci infections
+560,A71,0,Trachoma                                                     Trachoma
+561,A710,1,Initial stage of trachoma                                    Initial stage of trachoma
+562,A711,1,Active stage of trachoma                                     Active stage of trachoma
+563,A719,1,"Trachoma, unspecified                                        Trachoma, unspecified"
+564,A74,0,Other diseases caused by chlamydiae                          Other diseases caused by chlamydiae
+565,A740,1,Chlamydial conjunctivitis                                    Chlamydial conjunctivitis
+566,A748,0,Other chlamydial diseases                                    Other chlamydial diseases
+567,A7481,1,Chlamydial peritonitis                                       Chlamydial peritonitis
+568,A7489,1,Other chlamydial diseases                                    Other chlamydial diseases
+569,A749,1,"Chlamydial infection, unspecified                            Chlamydial infection, unspecified"
+570,A75,0,Typhus fever                                                 Typhus fever
+571,A750,1,Epidemic louse-borne typhus fever d/t Rickettsia prowazekii  Epidemic louse-borne typhus fever due to Rickettsia prowazekii
+572,A751,1,Recrudescent typhus [Brill's disease]                        Recrudescent typhus [Brill's disease]
+573,A752,1,Typhus fever due to Rickettsia typhi                         Typhus fever due to Rickettsia typhi
+574,A753,1,Typhus fever due to Rickettsia tsutsugamushi                 Typhus fever due to Rickettsia tsutsugamushi
+575,A759,1,"Typhus fever, unspecified                                    Typhus fever, unspecified"
+576,A77,0,Spotted fever [tick-borne rickettsioses]                     Spotted fever [tick-borne rickettsioses]
+577,A770,1,Spotted fever due to Rickettsia rickettsii                   Spotted fever due to Rickettsia rickettsii
+578,A771,1,Spotted fever due to Rickettsia conorii                      Spotted fever due to Rickettsia conorii
+579,A772,1,Spotted fever due to Rickettsia siberica                     Spotted fever due to Rickettsia siberica
+580,A773,1,Spotted fever due to Rickettsia australis                    Spotted fever due to Rickettsia australis
+581,A774,0,Ehrlichiosis                                                 Ehrlichiosis
+582,A7740,1,"Ehrlichiosis, unspecified                                    Ehrlichiosis, unspecified"
+583,A7741,1,Ehrlichiosis chaffeensis [E. chaffeensis]                    Ehrlichiosis chaffeensis [E. chaffeensis]
+584,A7749,1,Other ehrlichiosis                                           Other ehrlichiosis
+585,A778,1,Other spotted fevers                                         Other spotted fevers
+586,A779,1,"Spotted fever, unspecified                                   Spotted fever, unspecified"
+587,A78,1,Q fever                                                      Q fever
+588,A79,0,Other rickettsioses                                          Other rickettsioses
+589,A790,1,Trench fever                                                 Trench fever
+590,A791,1,Rickettsialpox due to Rickettsia akari                       Rickettsialpox due to Rickettsia akari
+591,A798,0,Other specified rickettsioses                                Other specified rickettsioses
+592,A7981,1,Rickettsiosis due to Ehrlichia sennetsu                      Rickettsiosis due to Ehrlichia sennetsu
+593,A7982,1,Anaplasmosis [A. phagocytophilum]                            Anaplasmosis [A. phagocytophilum]
+594,A7989,1,Other specified rickettsioses                                Other specified rickettsioses
+595,A799,1,"Rickettsiosis, unspecified                                   Rickettsiosis, unspecified"
+596,A80,0,Acute poliomyelitis                                          Acute poliomyelitis
+597,A800,1,"Acute paralytic poliomyelitis, vaccine-associated            Acute paralytic poliomyelitis, vaccine-associated"
+598,A801,1,"Acute paralytic poliomyelitis, wild virus, imported          Acute paralytic poliomyelitis, wild virus, imported"
+599,A802,1,"Acute paralytic poliomyelitis, wild virus, indigenous        Acute paralytic poliomyelitis, wild virus, indigenous"
+600,A803,0,"Acute paralytic poliomyelitis, other and unspecified         Acute paralytic poliomyelitis, other and unspecified"
+601,A8030,1,"Acute paralytic poliomyelitis, unspecified                   Acute paralytic poliomyelitis, unspecified"
+602,A8039,1,Other acute paralytic poliomyelitis                          Other acute paralytic poliomyelitis
+603,A804,1,Acute nonparalytic poliomyelitis                             Acute nonparalytic poliomyelitis
+604,A809,1,"Acute poliomyelitis, unspecified                             Acute poliomyelitis, unspecified"
+605,A81,0,Atypical virus infections of central nervous system          Atypical virus infections of central nervous system
+606,A810,0,Creutzfeldt-Jakob disease                                    Creutzfeldt-Jakob disease
+607,A8100,1,"Creutzfeldt-Jakob disease, unspecified                       Creutzfeldt-Jakob disease, unspecified"
+608,A8101,1,Variant Creutzfeldt-Jakob disease                            Variant Creutzfeldt-Jakob disease
+609,A8109,1,Other Creutzfeldt-Jakob disease                              Other Creutzfeldt-Jakob disease
+610,A811,1,Subacute sclerosing panencephalitis                          Subacute sclerosing panencephalitis
+611,A812,1,Progressive multifocal leukoencephalopathy                   Progressive multifocal leukoencephalopathy
+612,A818,0,Other atypical virus infections of central nervous system    Other atypical virus infections of central nervous system
+613,A8181,1,Kuru                                                         Kuru
+614,A8182,1,Gerstmann-Straussler-Scheinker syndrome                      Gerstmann-Straussler-Scheinker syndrome
+615,A8183,1,Fatal familial insomnia                                      Fatal familial insomnia
+616,A8189,1,Other atypical virus infections of central nervous system    Other atypical virus infections of central nervous system
+617,A819,1,"Atypical virus infection of central nervous system, unsp     Atypical virus infection of central nervous system, unspecified"
+618,A82,0,Rabies                                                       Rabies
+619,A820,1,Sylvatic rabies                                              Sylvatic rabies
+620,A821,1,Urban rabies                                                 Urban rabies
+621,A829,1,"Rabies, unspecified                                          Rabies, unspecified"
+622,A83,0,Mosquito-borne viral encephalitis                            Mosquito-borne viral encephalitis
+623,A830,1,Japanese encephalitis                                        Japanese encephalitis
+624,A831,1,Western equine encephalitis                                  Western equine encephalitis
+625,A832,1,Eastern equine encephalitis                                  Eastern equine encephalitis
+626,A833,1,St Louis encephalitis                                        St Louis encephalitis
+627,A834,1,Australian encephalitis                                      Australian encephalitis
+628,A835,1,California encephalitis                                      California encephalitis
+629,A836,1,Rocio virus disease                                          Rocio virus disease
+630,A838,1,Other mosquito-borne viral encephalitis                      Other mosquito-borne viral encephalitis
+631,A839,1,"Mosquito-borne viral encephalitis, unspecified               Mosquito-borne viral encephalitis, unspecified"
+632,A84,0,Tick-borne viral encephalitis                                Tick-borne viral encephalitis
+633,A840,1,Far Eastern tick-borne encephalitis                          Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis]
+634,A841,1,Central European tick-borne encephalitis                     Central European tick-borne encephalitis
+635,A848,0,Other tick-borne viral encephalitis                          Other tick-borne viral encephalitis
+636,A8481,1,Powassan virus disease                                       Powassan virus disease
+637,A8489,1,Other tick-borne viral encephalitis                          Other tick-borne viral encephalitis
+638,A849,1,"Tick-borne viral encephalitis, unspecified                   Tick-borne viral encephalitis, unspecified"
+639,A85,0,"Other viral encephalitis, not elsewhere classified           Other viral encephalitis, not elsewhere classified"
+640,A850,1,Enteroviral encephalitis                                     Enteroviral encephalitis
+641,A851,1,Adenoviral encephalitis                                      Adenoviral encephalitis
+642,A852,1,"Arthropod-borne viral encephalitis, unspecified              Arthropod-borne viral encephalitis, unspecified"
+643,A858,1,Other specified viral encephalitis                           Other specified viral encephalitis
+644,A86,1,Unspecified viral encephalitis                               Unspecified viral encephalitis
+645,A87,0,Viral meningitis                                             Viral meningitis
+646,A870,1,Enteroviral meningitis                                       Enteroviral meningitis
+647,A871,1,Adenoviral meningitis                                        Adenoviral meningitis
+648,A872,1,Lymphocytic choriomeningitis                                 Lymphocytic choriomeningitis
+649,A878,1,Other viral meningitis                                       Other viral meningitis
+650,A879,1,"Viral meningitis, unspecified                                Viral meningitis, unspecified"
+651,A88,0,"Oth viral infections of central nervous system, NEC          Other viral infections of central nervous system, not elsewhere classified"
+652,A880,1,Enteroviral exanthematous fever [Boston exanthem]            Enteroviral exanthematous fever [Boston exanthem]
+653,A881,1,Epidemic vertigo                                             Epidemic vertigo
+654,A888,1,Other specified viral infections of central nervous system   Other specified viral infections of central nervous system
+655,A89,1,Unspecified viral infection of central nervous system        Unspecified viral infection of central nervous system
+656,A90,1,Dengue fever [classical dengue]                              Dengue fever [classical dengue]
+657,A91,1,Dengue hemorrhagic fever                                     Dengue hemorrhagic fever
+658,A92,0,Other mosquito-borne viral fevers                            Other mosquito-borne viral fevers
+659,A920,1,Chikungunya virus disease                                    Chikungunya virus disease
+660,A921,1,O'nyong-nyong fever                                          O'nyong-nyong fever
+661,A922,1,Venezuelan equine fever                                      Venezuelan equine fever
+662,A923,0,West Nile virus infection                                    West Nile virus infection
+663,A9230,1,"West Nile virus infection, unspecified                       West Nile virus infection, unspecified"
+664,A9231,1,West Nile virus infection with encephalitis                  West Nile virus infection with encephalitis
+665,A9232,1,West Nile virus infection with oth neurologic manifestation  West Nile virus infection with other neurologic manifestation
+666,A9239,1,West Nile virus infection with other complications           West Nile virus infection with other complications
+667,A924,1,Rift Valley fever                                            Rift Valley fever
+668,A925,1,Zika virus disease                                           Zika virus disease
+669,A928,1,Other specified mosquito-borne viral fevers                  Other specified mosquito-borne viral fevers
+670,A929,1,"Mosquito-borne viral fever, unspecified                      Mosquito-borne viral fever, unspecified"
+671,A93,0,"Other arthropod-borne viral fevers, not elsewhere classified Other arthropod-borne viral fevers, not elsewhere classified"
+672,A930,1,Oropouche virus disease                                      Oropouche virus disease
+673,A931,1,Sandfly fever                                                Sandfly fever
+674,A932,1,Colorado tick fever                                          Colorado tick fever
+675,A938,1,Other specified arthropod-borne viral fevers                 Other specified arthropod-borne viral fevers
+676,A94,1,Unspecified arthropod-borne viral fever                      Unspecified arthropod-borne viral fever
+677,A95,0,Yellow fever                                                 Yellow fever
+678,A950,1,Sylvatic yellow fever                                        Sylvatic yellow fever
+679,A951,1,Urban yellow fever                                           Urban yellow fever
+680,A959,1,"Yellow fever, unspecified                                    Yellow fever, unspecified"
+681,A96,0,Arenaviral hemorrhagic fever                                 Arenaviral hemorrhagic fever
+682,A960,1,Junin hemorrhagic fever                                      Junin hemorrhagic fever
+683,A961,1,Machupo hemorrhagic fever                                    Machupo hemorrhagic fever
+684,A962,1,Lassa fever                                                  Lassa fever
+685,A968,1,Other arenaviral hemorrhagic fevers                          Other arenaviral hemorrhagic fevers
+686,A969,1,"Arenaviral hemorrhagic fever, unspecified                    Arenaviral hemorrhagic fever, unspecified"
+687,A98,0,"Other viral hemorrhagic fevers, not elsewhere classified     Other viral hemorrhagic fevers, not elsewhere classified"
+688,A980,1,Crimean-Congo hemorrhagic fever                              Crimean-Congo hemorrhagic fever
+689,A981,1,Omsk hemorrhagic fever                                       Omsk hemorrhagic fever
+690,A982,1,Kyasanur Forest disease                                      Kyasanur Forest disease
+691,A983,1,Marburg virus disease                                        Marburg virus disease
+692,A984,1,Ebola virus disease                                          Ebola virus disease
+693,A985,1,Hemorrhagic fever with renal syndrome                        Hemorrhagic fever with renal syndrome
+694,A988,1,Other specified viral hemorrhagic fevers                     Other specified viral hemorrhagic fevers
+695,A99,1,Unspecified viral hemorrhagic fever                          Unspecified viral hemorrhagic fever
+696,B00,0,Herpesviral [herpes simplex] infections                      Herpesviral [herpes simplex] infections
+697,B000,1,Eczema herpeticum                                            Eczema herpeticum
+698,B001,1,Herpesviral vesicular dermatitis                             Herpesviral vesicular dermatitis
+699,B002,1,Herpesviral gingivostomatitis and pharyngotonsillitis        Herpesviral gingivostomatitis and pharyngotonsillitis
+700,B003,1,Herpesviral meningitis                                       Herpesviral meningitis
+701,B004,1,Herpesviral encephalitis                                     Herpesviral encephalitis
+702,B005,0,Herpesviral ocular disease                                   Herpesviral ocular disease
+703,B0050,1,"Herpesviral ocular disease, unspecified                      Herpesviral ocular disease, unspecified"
+704,B0051,1,Herpesviral iridocyclitis                                    Herpesviral iridocyclitis
+705,B0052,1,Herpesviral keratitis                                        Herpesviral keratitis
+706,B0053,1,Herpesviral conjunctivitis                                   Herpesviral conjunctivitis
+707,B0059,1,Other herpesviral disease of eye                             Other herpesviral disease of eye
+708,B007,1,Disseminated herpesviral disease                             Disseminated herpesviral disease
+709,B008,0,Other forms of herpesviral infections                        Other forms of herpesviral infections
+710,B0081,1,Herpesviral hepatitis                                        Herpesviral hepatitis
+711,B0082,1,Herpes simplex myelitis                                      Herpes simplex myelitis
+712,B0089,1,Other herpesviral infection                                  Other herpesviral infection
+713,B009,1,"Herpesviral infection, unspecified                           Herpesviral infection, unspecified"
+714,B01,0,Varicella [chickenpox]                                       Varicella [chickenpox]
+715,B010,1,Varicella meningitis                                         Varicella meningitis
+716,B011,0,"Varicella encephalitis, myelitis and encephalomyelitis       Varicella encephalitis, myelitis and encephalomyelitis"
+717,B0111,1,Varicella encephalitis and encephalomyelitis                 Varicella encephalitis and encephalomyelitis
+718,B0112,1,Varicella myelitis                                           Varicella myelitis
+719,B012,1,Varicella pneumonia                                          Varicella pneumonia
+720,B018,0,Varicella with other complications                           Varicella with other complications
+721,B0181,1,Varicella keratitis                                          Varicella keratitis
+722,B0189,1,Other varicella complications                                Other varicella complications
+723,B019,1,Varicella without complication                               Varicella without complication
+724,B02,0,Zoster [herpes zoster]                                       Zoster [herpes zoster]
+725,B020,1,Zoster encephalitis                                          Zoster encephalitis
+726,B021,1,Zoster meningitis                                            Zoster meningitis
+727,B022,0,Zoster with other nervous system involvement                 Zoster with other nervous system involvement
+728,B0221,1,Postherpetic geniculate ganglionitis                         Postherpetic geniculate ganglionitis
+729,B0222,1,Postherpetic trigeminal neuralgia                            Postherpetic trigeminal neuralgia
+730,B0223,1,Postherpetic polyneuropathy                                  Postherpetic polyneuropathy
+731,B0224,1,Postherpetic myelitis                                        Postherpetic myelitis
+732,B0229,1,Other postherpetic nervous system involvement                Other postherpetic nervous system involvement
+733,B023,0,Zoster ocular disease                                        Zoster ocular disease
+734,B0230,1,"Zoster ocular disease, unspecified                           Zoster ocular disease, unspecified"
+735,B0231,1,Zoster conjunctivitis                                        Zoster conjunctivitis
+736,B0232,1,Zoster iridocyclitis                                         Zoster iridocyclitis
+737,B0233,1,Zoster keratitis                                             Zoster keratitis
+738,B0234,1,Zoster scleritis                                             Zoster scleritis
+739,B0239,1,Other herpes zoster eye disease                              Other herpes zoster eye disease
+740,B027,1,Disseminated zoster                                          Disseminated zoster
+741,B028,1,Zoster with other complications                              Zoster with other complications
+742,B029,1,Zoster without complications                                 Zoster without complications
+743,B03,1,Smallpox                                                     Smallpox
+744,B04,1,Monkeypox                                                    Monkeypox
+745,B05,0,Measles                                                      Measles
+746,B050,1,Measles complicated by encephalitis                          Measles complicated by encephalitis
+747,B051,1,Measles complicated by meningitis                            Measles complicated by meningitis
+748,B052,1,Measles complicated by pneumonia                             Measles complicated by pneumonia
+749,B053,1,Measles complicated by otitis media                          Measles complicated by otitis media
+750,B054,1,Measles with intestinal complications                        Measles with intestinal complications
+751,B058,0,Measles with other complications                             Measles with other complications
+752,B0581,1,Measles keratitis and keratoconjunctivitis                   Measles keratitis and keratoconjunctivitis
+753,B0589,1,Other measles complications                                  Other measles complications
+754,B059,1,Measles without complication                                 Measles without complication
+755,B06,0,Rubella [German measles]                                     Rubella [German measles]
+756,B060,0,Rubella with neurological complications                      Rubella with neurological complications
+757,B0600,1,"Rubella with neurological complication, unspecified          Rubella with neurological complication, unspecified"
+758,B0601,1,Rubella encephalitis                                         Rubella encephalitis
+759,B0602,1,Rubella meningitis                                           Rubella meningitis
+760,B0609,1,Other neurological complications of rubella                  Other neurological complications of rubella
+761,B068,0,Rubella with other complications                             Rubella with other complications
+762,B0681,1,Rubella pneumonia                                            Rubella pneumonia
+763,B0682,1,Rubella arthritis                                            Rubella arthritis
+764,B0689,1,Other rubella complications                                  Other rubella complications
+765,B069,1,Rubella without complication                                 Rubella without complication
+766,B07,0,Viral warts                                                  Viral warts
+767,B070,1,Plantar wart                                                 Plantar wart
+768,B078,1,Other viral warts                                            Other viral warts
+769,B079,1,"Viral wart, unspecified                                      Viral wart, unspecified"
+770,B08,0,"Oth viral infect with skin and mucous membrane lesions, NEC  Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified"
+771,B080,0,Other orthopoxvirus infections                               Other orthopoxvirus infections
+772,B0801,0,Cowpox and vaccinia not from vaccine                         Cowpox and vaccinia not from vaccine
+773,B08010,1,Cowpox                                                       Cowpox
+774,B08011,1,Vaccinia not from vaccine                                    Vaccinia not from vaccine
+775,B0802,1,Orf virus disease                                            Orf virus disease
+776,B0803,1,Pseudocowpox [milker's node]                                 Pseudocowpox [milker's node]
+777,B0804,1,"Paravaccinia, unspecified                                    Paravaccinia, unspecified"
+778,B0809,1,Other orthopoxvirus infections                               Other orthopoxvirus infections
+779,B081,1,Molluscum contagiosum                                        Molluscum contagiosum
+780,B082,0,Exanthema subitum [sixth disease]                            Exanthema subitum [sixth disease]
+781,B0820,1,"Exanthema subitum [sixth disease], unspecified               Exanthema subitum [sixth disease], unspecified"
+782,B0821,1,Exanthema subitum [sixth disease] due to human herpesvirus 6 Exanthema subitum [sixth disease] due to human herpesvirus 6
+783,B0822,1,Exanthema subitum [sixth disease] due to human herpesvirus 7 Exanthema subitum [sixth disease] due to human herpesvirus 7
+784,B083,1,Erythema infectiosum [fifth disease]                         Erythema infectiosum [fifth disease]
+785,B084,1,Enteroviral vesicular stomatitis with exanthem               Enteroviral vesicular stomatitis with exanthem
+786,B085,1,Enteroviral vesicular pharyngitis                            Enteroviral vesicular pharyngitis
+787,B086,0,Parapoxvirus infections                                      Parapoxvirus infections
+788,B0860,1,"Parapoxvirus infection, unspecified                          Parapoxvirus infection, unspecified"
+789,B0861,1,Bovine stomatitis                                            Bovine stomatitis
+790,B0862,1,Sealpox                                                      Sealpox
+791,B0869,1,Other parapoxvirus infections                                Other parapoxvirus infections
+792,B087,0,Yatapoxvirus infections                                      Yatapoxvirus infections
+793,B0870,1,"Yatapoxvirus infection, unspecified                          Yatapoxvirus infection, unspecified"
+794,B0871,1,Tanapox virus disease                                        Tanapox virus disease
+795,B0872,1,Yaba pox virus disease                                       Yaba pox virus disease
+796,B0879,1,Other yatapoxvirus infections                                Other yatapoxvirus infections
+797,B088,1,Oth viral infections with skin and mucous membrane lesions   Other specified viral infections characterized by skin and mucous membrane lesions
+798,B09,1,Unsp viral infection with skin and mucous membrane lesions   Unspecified viral infection characterized by skin and mucous membrane lesions
+799,B10,0,Other human herpesviruses                                    Other human herpesviruses
+800,B100,0,Other human herpesvirus encephalitis                         Other human herpesvirus encephalitis
+801,B1001,1,Human herpesvirus 6 encephalitis                             Human herpesvirus 6 encephalitis
+802,B1009,1,Other human herpesvirus encephalitis                         Other human herpesvirus encephalitis
+803,B108,0,Other human herpesvirus infection                            Other human herpesvirus infection
+804,B1081,1,Human herpesvirus 6 infection                                Human herpesvirus 6 infection
+805,B1082,1,Human herpesvirus 7 infection                                Human herpesvirus 7 infection
+806,B1089,1,Other human herpesvirus infection                            Other human herpesvirus infection
+807,B15,0,Acute hepatitis A                                            Acute hepatitis A
+808,B150,1,Hepatitis A with hepatic coma                                Hepatitis A with hepatic coma
+809,B159,1,Hepatitis A without hepatic coma                             Hepatitis A without hepatic coma
+810,B16,0,Acute hepatitis B                                            Acute hepatitis B
+811,B160,1,Acute hepatitis B with delta-agent with hepatic coma         Acute hepatitis B with delta-agent with hepatic coma
+812,B161,1,Acute hepatitis B with delta-agent without hepatic coma      Acute hepatitis B with delta-agent without hepatic coma
+813,B162,1,Acute hepatitis B without delta-agent with hepatic coma      Acute hepatitis B without delta-agent with hepatic coma
+814,B169,1,Acute hepatitis B w/o delta-agent and without hepatic coma   Acute hepatitis B without delta-agent and without hepatic coma
+815,B17,0,Other acute viral hepatitis                                  Other acute viral hepatitis
+816,B170,1,Acute delta-(super) infection of hepatitis B carrier         Acute delta-(super) infection of hepatitis B carrier
+817,B171,0,Acute hepatitis C                                            Acute hepatitis C
+818,B1710,1,Acute hepatitis C without hepatic coma                       Acute hepatitis C without hepatic coma
+819,B1711,1,Acute hepatitis C with hepatic coma                          Acute hepatitis C with hepatic coma
+820,B172,1,Acute hepatitis E                                            Acute hepatitis E
+821,B178,1,Other specified acute viral hepatitis                        Other specified acute viral hepatitis
+822,B179,1,"Acute viral hepatitis, unspecified                           Acute viral hepatitis, unspecified"
+823,B18,0,Chronic viral hepatitis                                      Chronic viral hepatitis
+824,B180,1,Chronic viral hepatitis B with delta-agent                   Chronic viral hepatitis B with delta-agent
+825,B181,1,Chronic viral hepatitis B without delta-agent                Chronic viral hepatitis B without delta-agent
+826,B182,1,Chronic viral hepatitis C                                    Chronic viral hepatitis C
+827,B188,1,Other chronic viral hepatitis                                Other chronic viral hepatitis
+828,B189,1,"Chronic viral hepatitis, unspecified                         Chronic viral hepatitis, unspecified"
+829,B19,0,Unspecified viral hepatitis                                  Unspecified viral hepatitis
+830,B190,1,Unspecified viral hepatitis with hepatic coma                Unspecified viral hepatitis with hepatic coma
+831,B191,0,Unspecified viral hepatitis B                                Unspecified viral hepatitis B
+832,B1910,1,Unspecified viral hepatitis B without hepatic coma           Unspecified viral hepatitis B without hepatic coma
+833,B1911,1,Unspecified viral hepatitis B with hepatic coma              Unspecified viral hepatitis B with hepatic coma
+834,B192,0,Unspecified viral hepatitis C                                Unspecified viral hepatitis C
+835,B1920,1,Unspecified viral hepatitis C without hepatic coma           Unspecified viral hepatitis C without hepatic coma
+836,B1921,1,Unspecified viral hepatitis C with hepatic coma              Unspecified viral hepatitis C with hepatic coma
+837,B199,1,Unspecified viral hepatitis without hepatic coma             Unspecified viral hepatitis without hepatic coma
+838,B20,1,Human immunodeficiency virus [HIV] disease                   Human immunodeficiency virus [HIV] disease
+839,B25,0,Cytomegaloviral disease                                      Cytomegaloviral disease
+840,B250,1,Cytomegaloviral pneumonitis                                  Cytomegaloviral pneumonitis
+841,B251,1,Cytomegaloviral hepatitis                                    Cytomegaloviral hepatitis
+842,B252,1,Cytomegaloviral pancreatitis                                 Cytomegaloviral pancreatitis
+843,B258,1,Other cytomegaloviral diseases                               Other cytomegaloviral diseases
+844,B259,1,"Cytomegaloviral disease, unspecified                         Cytomegaloviral disease, unspecified"
+845,B26,0,Mumps                                                        Mumps
+846,B260,1,Mumps orchitis                                               Mumps orchitis
+847,B261,1,Mumps meningitis                                             Mumps meningitis
+848,B262,1,Mumps encephalitis                                           Mumps encephalitis
+849,B263,1,Mumps pancreatitis                                           Mumps pancreatitis
+850,B268,0,Mumps with other complications                               Mumps with other complications
+851,B2681,1,Mumps hepatitis                                              Mumps hepatitis
+852,B2682,1,Mumps myocarditis                                            Mumps myocarditis
+853,B2683,1,Mumps nephritis                                              Mumps nephritis
+854,B2684,1,Mumps polyneuropathy                                         Mumps polyneuropathy
+855,B2685,1,Mumps arthritis                                              Mumps arthritis
+856,B2689,1,Other mumps complications                                    Other mumps complications
+857,B269,1,Mumps without complication                                   Mumps without complication
+858,B27,0,Infectious mononucleosis                                     Infectious mononucleosis
+859,B270,0,Gammaherpesviral mononucleosis                               Gammaherpesviral mononucleosis
+860,B2700,1,Gammaherpesviral mononucleosis without complication          Gammaherpesviral mononucleosis without complication
+861,B2701,1,Gammaherpesviral mononucleosis with polyneuropathy           Gammaherpesviral mononucleosis with polyneuropathy
+862,B2702,1,Gammaherpesviral mononucleosis with meningitis               Gammaherpesviral mononucleosis with meningitis
+863,B2709,1,Gammaherpesviral mononucleosis with other complications      Gammaherpesviral mononucleosis with other complications
+864,B271,0,Cytomegaloviral mononucleosis                                Cytomegaloviral mononucleosis
+865,B2710,1,Cytomegaloviral mononucleosis without complications          Cytomegaloviral mononucleosis without complications
+866,B2711,1,Cytomegaloviral mononucleosis with polyneuropathy            Cytomegaloviral mononucleosis with polyneuropathy
+867,B2712,1,Cytomegaloviral mononucleosis with meningitis                Cytomegaloviral mononucleosis with meningitis
+868,B2719,1,Cytomegaloviral mononucleosis with other complication        Cytomegaloviral mononucleosis with other complication
+869,B278,0,Other infectious mononucleosis                               Other infectious mononucleosis
+870,B2780,1,Other infectious mononucleosis without complication          Other infectious mononucleosis without complication
+871,B2781,1,Other infectious mononucleosis with polyneuropathy           Other infectious mononucleosis with polyneuropathy
+872,B2782,1,Other infectious mononucleosis with meningitis               Other infectious mononucleosis with meningitis
+873,B2789,1,Other infectious mononucleosis with other complication       Other infectious mononucleosis with other complication
+874,B279,0,"Infectious mononucleosis, unspecified                        Infectious mononucleosis, unspecified"
+875,B2790,1,"Infectious mononucleosis, unspecified without complication   Infectious mononucleosis, unspecified without complication"
+876,B2791,1,"Infectious mononucleosis, unspecified with polyneuropathy    Infectious mononucleosis, unspecified with polyneuropathy"
+877,B2792,1,"Infectious mononucleosis, unspecified with meningitis        Infectious mononucleosis, unspecified with meningitis"
+878,B2799,1,"Infectious mononucleosis, unsp with other complication       Infectious mononucleosis, unspecified with other complication"
+879,B30,0,Viral conjunctivitis                                         Viral conjunctivitis
+880,B300,1,Keratoconjunctivitis due to adenovirus                       Keratoconjunctivitis due to adenovirus
+881,B301,1,Conjunctivitis due to adenovirus                             Conjunctivitis due to adenovirus
+882,B302,1,Viral pharyngoconjunctivitis                                 Viral pharyngoconjunctivitis
+883,B303,1,Acute epidemic hemorrhagic conjunctivitis (enteroviral)      Acute epidemic hemorrhagic conjunctivitis (enteroviral)
+884,B308,1,Other viral conjunctivitis                                   Other viral conjunctivitis
+885,B309,1,"Viral conjunctivitis, unspecified                            Viral conjunctivitis, unspecified"
+886,B33,0,"Other viral diseases, not elsewhere classified               Other viral diseases, not elsewhere classified"
+887,B330,1,Epidemic myalgia                                             Epidemic myalgia
+888,B331,1,Ross River disease                                           Ross River disease
+889,B332,0,Viral carditis                                               Viral carditis
+890,B3320,1,"Viral carditis, unspecified                                  Viral carditis, unspecified"
+891,B3321,1,Viral endocarditis                                           Viral endocarditis
+892,B3322,1,Viral myocarditis                                            Viral myocarditis
+893,B3323,1,Viral pericarditis                                           Viral pericarditis
+894,B3324,1,Viral cardiomyopathy                                         Viral cardiomyopathy
+895,B333,1,"Retrovirus infections, not elsewhere classified              Retrovirus infections, not elsewhere classified"
+896,B334,1,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS]          Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS]
+897,B338,1,Other specified viral diseases                               Other specified viral diseases
+898,B34,0,Viral infection of unspecified site                          Viral infection of unspecified site
+899,B340,1,"Adenovirus infection, unspecified                            Adenovirus infection, unspecified"
+900,B341,1,"Enterovirus infection, unspecified                           Enterovirus infection, unspecified"
+901,B342,1,"Coronavirus infection, unspecified                           Coronavirus infection, unspecified"
+902,B343,1,"Parvovirus infection, unspecified                            Parvovirus infection, unspecified"
+903,B344,1,"Papovavirus infection, unspecified                           Papovavirus infection, unspecified"
+904,B348,1,Other viral infections of unspecified site                   Other viral infections of unspecified site
+905,B349,1,"Viral infection, unspecified                                 Viral infection, unspecified"
+906,B35,0,Dermatophytosis                                              Dermatophytosis
+907,B350,1,Tinea barbae and tinea capitis                               Tinea barbae and tinea capitis
+908,B351,1,Tinea unguium                                                Tinea unguium
+909,B352,1,Tinea manuum                                                 Tinea manuum
+910,B353,1,Tinea pedis                                                  Tinea pedis
+911,B354,1,Tinea corporis                                               Tinea corporis
+912,B355,1,Tinea imbricata                                              Tinea imbricata
+913,B356,1,Tinea cruris                                                 Tinea cruris
+914,B358,1,Other dermatophytoses                                        Other dermatophytoses
+915,B359,1,"Dermatophytosis, unspecified                                 Dermatophytosis, unspecified"
+916,B36,0,Other superficial mycoses                                    Other superficial mycoses
+917,B360,1,Pityriasis versicolor                                        Pityriasis versicolor
+918,B361,1,Tinea nigra                                                  Tinea nigra
+919,B362,1,White piedra                                                 White piedra
+920,B363,1,Black piedra                                                 Black piedra
+921,B368,1,Other specified superficial mycoses                          Other specified superficial mycoses
+922,B369,1,"Superficial mycosis, unspecified                             Superficial mycosis, unspecified"
+923,B37,0,Candidiasis                                                  Candidiasis
+924,B370,1,Candidal stomatitis                                          Candidal stomatitis
+925,B371,1,Pulmonary candidiasis                                        Pulmonary candidiasis
+926,B372,1,Candidiasis of skin and nail                                 Candidiasis of skin and nail
+927,B373,0,Candidiasis of vulva and vagina                              Candidiasis of vulva and vagina
+928,B3731,1,Acute candidiasis of vulva and vagina                        Acute candidiasis of vulva and vagina
+929,B3732,1,Chronic candidiasis of vulva and vagina                      Chronic candidiasis of vulva and vagina
+930,B374,0,Candidiasis of other urogenital sites                        Candidiasis of other urogenital sites
+931,B3741,1,Candidal cystitis and urethritis                             Candidal cystitis and urethritis
+932,B3742,1,Candidal balanitis                                           Candidal balanitis
+933,B3749,1,Other urogenital candidiasis                                 Other urogenital candidiasis
+934,B375,1,Candidal meningitis                                          Candidal meningitis
+935,B376,1,Candidal endocarditis                                        Candidal endocarditis
+936,B377,1,Candidal sepsis                                              Candidal sepsis
+937,B378,0,Candidiasis of other sites                                   Candidiasis of other sites
+938,B3781,1,Candidal esophagitis                                         Candidal esophagitis
+939,B3782,1,Candidal enteritis                                           Candidal enteritis
+940,B3783,1,Candidal cheilitis                                           Candidal cheilitis
+941,B3784,1,Candidal otitis externa                                      Candidal otitis externa
+942,B3789,1,Other sites of candidiasis                                   Other sites of candidiasis
+943,B379,1,"Candidiasis, unspecified                                     Candidiasis, unspecified"
+944,B38,0,Coccidioidomycosis                                           Coccidioidomycosis
+945,B380,1,Acute pulmonary coccidioidomycosis                           Acute pulmonary coccidioidomycosis
+946,B381,1,Chronic pulmonary coccidioidomycosis                         Chronic pulmonary coccidioidomycosis
+947,B382,1,"Pulmonary coccidioidomycosis, unspecified                    Pulmonary coccidioidomycosis, unspecified"
+948,B383,1,Cutaneous coccidioidomycosis                                 Cutaneous coccidioidomycosis
+949,B384,1,Coccidioidomycosis meningitis                                Coccidioidomycosis meningitis
+950,B387,1,Disseminated coccidioidomycosis                              Disseminated coccidioidomycosis
+951,B388,0,Other forms of coccidioidomycosis                            Other forms of coccidioidomycosis
+952,B3881,1,Prostatic coccidioidomycosis                                 Prostatic coccidioidomycosis
+953,B3889,1,Other forms of coccidioidomycosis                            Other forms of coccidioidomycosis
+954,B389,1,"Coccidioidomycosis, unspecified                              Coccidioidomycosis, unspecified"
+955,B39,0,Histoplasmosis                                               Histoplasmosis
+956,B390,1,Acute pulmonary histoplasmosis capsulati                     Acute pulmonary histoplasmosis capsulati
+957,B391,1,Chronic pulmonary histoplasmosis capsulati                   Chronic pulmonary histoplasmosis capsulati
+958,B392,1,"Pulmonary histoplasmosis capsulati, unspecified              Pulmonary histoplasmosis capsulati, unspecified"
+959,B393,1,Disseminated histoplasmosis capsulati                        Disseminated histoplasmosis capsulati
+960,B394,1,"Histoplasmosis capsulati, unspecified                        Histoplasmosis capsulati, unspecified"
+961,B395,1,Histoplasmosis duboisii                                      Histoplasmosis duboisii
+962,B399,1,"Histoplasmosis, unspecified                                  Histoplasmosis, unspecified"
+963,B40,0,Blastomycosis                                                Blastomycosis
+964,B400,1,Acute pulmonary blastomycosis                                Acute pulmonary blastomycosis
+965,B401,1,Chronic pulmonary blastomycosis                              Chronic pulmonary blastomycosis
+966,B402,1,"Pulmonary blastomycosis, unspecified                         Pulmonary blastomycosis, unspecified"
+967,B403,1,Cutaneous blastomycosis                                      Cutaneous blastomycosis
+968,B407,1,Disseminated blastomycosis                                   Disseminated blastomycosis
+969,B408,0,Other forms of blastomycosis                                 Other forms of blastomycosis
+970,B4081,1,Blastomycotic meningoencephalitis                            Blastomycotic meningoencephalitis
+971,B4089,1,Other forms of blastomycosis                                 Other forms of blastomycosis
+972,B409,1,"Blastomycosis, unspecified                                   Blastomycosis, unspecified"
+973,B41,0,Paracoccidioidomycosis                                       Paracoccidioidomycosis
+974,B410,1,Pulmonary paracoccidioidomycosis                             Pulmonary paracoccidioidomycosis
+975,B417,1,Disseminated paracoccidioidomycosis                          Disseminated paracoccidioidomycosis
+976,B418,1,Other forms of paracoccidioidomycosis                        Other forms of paracoccidioidomycosis
+977,B419,1,"Paracoccidioidomycosis, unspecified                          Paracoccidioidomycosis, unspecified"
+978,B42,0,Sporotrichosis                                               Sporotrichosis
+979,B420,1,Pulmonary sporotrichosis                                     Pulmonary sporotrichosis
+980,B421,1,Lymphocutaneous sporotrichosis                               Lymphocutaneous sporotrichosis
+981,B427,1,Disseminated sporotrichosis                                  Disseminated sporotrichosis
+982,B428,0,Other forms of sporotrichosis                                Other forms of sporotrichosis
+983,B4281,1,Cerebral sporotrichosis                                      Cerebral sporotrichosis
+984,B4282,1,Sporotrichosis arthritis                                     Sporotrichosis arthritis
+985,B4289,1,Other forms of sporotrichosis                                Other forms of sporotrichosis
+986,B429,1,"Sporotrichosis, unspecified                                  Sporotrichosis, unspecified"
+987,B43,0,Chromomycosis and pheomycotic abscess                        Chromomycosis and pheomycotic abscess
+988,B430,1,Cutaneous chromomycosis                                      Cutaneous chromomycosis
+989,B431,1,Pheomycotic brain abscess                                    Pheomycotic brain abscess
+990,B432,1,Subcutaneous pheomycotic abscess and cyst                    Subcutaneous pheomycotic abscess and cyst
+991,B438,1,Other forms of chromomycosis                                 Other forms of chromomycosis
+992,B439,1,"Chromomycosis, unspecified                                   Chromomycosis, unspecified"
+993,B44,0,Aspergillosis                                                Aspergillosis
+994,B440,1,Invasive pulmonary aspergillosis                             Invasive pulmonary aspergillosis
+995,B441,1,Other pulmonary aspergillosis                                Other pulmonary aspergillosis
+996,B442,1,Tonsillar aspergillosis                                      Tonsillar aspergillosis
+997,B447,1,Disseminated aspergillosis                                   Disseminated aspergillosis
+998,B448,0,Other forms of aspergillosis                                 Other forms of aspergillosis
+999,B4481,1,Allergic bronchopulmonary aspergillosis                      Allergic bronchopulmonary aspergillosis
