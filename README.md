@@ -1,26 +1,9 @@
 # medical-codex-pipeline
-507 HHA Assignment- Please review :https://github.com/hantswilliams/HHA-507-2025/blob/main/assignments/assignment1_medicalcodexes.md for further information 
 
+THIS ONE IS DEFUNCT PLEASE REFER TO PROPER REPO FOR OFFICIALIZED VERSION : 
+https://github.com/nbarc888/medical_codex_pipeline.git
 
-Goal is to create a repo which includes information on 7 different medical codexes
-
-### List of Codexes
-| Codex | Focus |
-|--------|---------|
-| SNOWMED CT (US) | Clinical Terminology |
-| ICD-10-CM (US)| Diagnosis Codes |
-| ICD-10 (WHO) | International Diagnosis Codes|
-| HCPCS (US) | Healthcare Procedure Codes |
-| LOINC (US) | Laboratory Test Codes|
-| RxNorm (US) | Medication Codes|
-| NPI (US) | Healthcare Provider Identifiers |
-
-Keep in reference: 
-Please use standard column names across all codexes 
-Code : Primary ID
-Description: Human-readable description
-Last_Updated : Processing timestamp of when product was last updated
-
-### Also Utilize 
-Create 'utils/common_functions.py'
-'for save_to_formats(df, Base_filename)' : to save DataFrame to CSV 
+Version kept open for timelog of pushes and updates to files. 
+This version is scrapped due to git push issue of accidental upload and deletion of file "SNOWMED_Smaller.csv" . 
+Multiple fixes were attempted such as git --origin, etc. 
+Only solution was to copy medical codex folder and reupload new folder as a seperate repository. 
