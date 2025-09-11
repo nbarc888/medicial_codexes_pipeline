@@ -13,15 +13,27 @@ loinc.LOINC_NUM
 loinc.LONG_COMMON_NAME
 
 
-list_cols = ['LOINC_NUM', 'DefinitionDescription']
+list_cols = ['LOINC_NUM', 'LONG_COMMON_NAME', 'VersionLastChanged']
 print('list_cols')
 
 subset = loinc[list_cols]
 print(subset.head())
 
-loinc_small = loinc[['LOINC_NUM', 'LONG_COMMON_NAME']]
+loinc_small = loinc[['LOINC_NUM', 'LONG_COMMON_NAME', 'VersionLastChanged']]
 loinc_small = loinc[list_cols]
 
 'LOINC_NUM'=='code'
 'LONG_COMMON_NAME'=='description'
-'last_updated'=='last_updated'
+'VersionLastChanged'=='last_updated'
+
+loinc_small = loinc_small.rename(columns={
+    'LOINC_NUM': 'code',
+    'LONG_COMMON_NAME': 'description',
+    'VersionLastChanged' : 'last_updated'
+})
+
+file_output_path = 'loinc_small.csv'
+
+loinc_small.to_csv('output/loinc_small.csv')
+
+### FUNCTIONALITY CONFIRMED

@@ -1,0 +1,17 @@
+import pandas as pd
+import os
+
+file_path = "input/HCPC2025_OCT_ANWEB.txt"
+
+colspecs = [(0, 11), (11, 90), (90, 120)]
+column_names = [
+    "Code", "Description1", "Description2"
+]
+df = pd.read_fwf(file_path, colspecs=colspecs, names=column_names)
+
+
+## save as csv to Module1_MedicalCodexes/hcpcs/output
+output_path = "output/hscps_output.csv"
+df.to_csv(output_path, index=False)
+
+### confirmed functional!!!

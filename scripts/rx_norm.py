@@ -19,7 +19,7 @@ df = pl.read_csv(
     truncate_ragged_lines=True
 )
 
-output_dir = Path('')
+output_dir = Path('output')
 output_dir.mkdir(exist_ok=True)
 output_path = output_dir / 'RXNATOMARCHIVE.csv'
 
@@ -31,3 +31,5 @@ print(f"Dataset shape: {df.shape}")
 print(f"\nFirst 5 rows:")
 print(df.head())
 print(f"\nMemory usage (MB): {df.estimated_size() / 1024**2:.2f}")
+
+### functional confirmed 

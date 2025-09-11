@@ -5,6 +5,10 @@
 input/*.*
 output/*.*
 
+### file types
+.csv
+.txt 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
